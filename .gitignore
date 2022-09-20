@@ -1,1 +1,3 @@
 *.tar.gz
+tests/diagnostics.json
+tests/diagnostics.json.lock
