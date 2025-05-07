@@ -1,3 +1,123 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7bf792bd38e35e831f185b42f4328ffc61fcb9e918e13f4646ed34c8f8fa0536
-size 7912
+payload:
+  parent_hash: '0xcc276b1046e79d4aa0f05e2efd49334e5b8a45a435c821179b6fc3e231e7bfef'
+  fee_recipient: '0xfc0d6bf62ae49224ea4f843859c22f43adbcbd8a'
+  state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  receipts_root: '0x9071766a0bbb19c7863e67e780848d51052c120855353b8d3f63cf11f3e4fdb5'
+  logs_bloom: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  prev_randao: '0xec590f6dadad6a1669fd3d5a1bd85cb74a8f9071e7417b94ef7871a0324a8460'
+  block_number: 17920789695548363318
+  gas_limit: 12134974265711228477
+  gas_used: 505632300534701205
+  timestamp: 2685147468803209517
+  extra_data: '0xda020ce0b6d7e295a3d2be0dc2f9cd6ab006428305b156b6063e1e293e2f25'
+  base_fee_per_gas: '54716005925547511168024300814247000838961167915027074876288037795281261146282'
+  block_hash: '0xa60f77c1a93fc9c876833ebd4f0755bc666294502606b92409280bc222cf29e0'
+  transactions:
+  - '0x'
+  withdrawals:
+  - index: 11672488742750262408
+    validator_index: 18153471305978278373
+    address: '0xffffffffffffffffffffffffffffffffffffffff'
+    amount: 5324793164353223504
+  - index: 16333132448807671082
+    validator_index: 18446744073709551615
+    address: '0x0000000000000000000000000000000000000000'
+    amount: 9896886855830211354
+  - index: 0
+    validator_index: 10541210254742809881
+    address: '0x99acdd2f15a20c72e9796ff1f3f555320bb81c34'
+    amount: 2448669983123709410
+  - index: 4577822217821405273
+    validator_index: 9874875684177422993
+    address: '0x2a764580d2e13c8f4547b35d66ed238124006037'
+    amount: 13788485880651922527
+  blob_gas_used: 16099194022280509378
+  excess_blob_gas: 3897045806908990564
+execution_requests:
+  deposits:
+  - pubkey: '0x15642716ffc429b646529b65ea34ead721563fb0354fe37377dada46d4e9a93c884c277ea764788e552d9044993255b9'
+    withdrawal_credentials: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    amount: 9666747933324962486
+    signature: '0x9849eeb25264464e7aa0567240d97c7d467cf401f3f44aa8b1cd78a1277832f48ba6b804f98a9fa2c6fccd27869dec473fbf005a18b0478042f800492189f76901e0a018ed116c56fce03ee4b443f991df326bf27bedb4c315609a9eb5ad17a0'
+    index: 0
+  - pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    withdrawal_credentials: '0xd6a557fee2a737b3d6d589f50496ee3ee0e98ef7697b81b60c9bce73bfc29d86'
+    amount: 18446744073709551615
+    signature: '0x5f4d80146280aef66c5063454865f3b67d44d6a9b9c1a64a85e776fa6d776a539091c599f99210abd4c5a04eb24c15af8463da001d7a12ae51cecace02ef5717b31e1fee6c931be9bab4aafd68141b5c163dbb0f8828e6ae1d3dab5476c4fc7d'
+    index: 0
+  - pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    withdrawal_credentials: '0xa5e61347a8d765f8d3711ae70a2f575295e4f7f4333913ba9910f3030064a92f'
+    amount: 14500217069033241515
+    signature: '0x5a3087098fca5dcf3b47c5c5ee239e12f43fa9f62f2b13e5d824503f85f89cb396e5152fe7d1c1b025ee925562d5c475aa81bf640fc1f879f64310737994d56261d6ca24ae1e1c6f8e64f0e9587b960440e16c43e5a59e08e0800e555a56f339'
+    index: 12346624422292236868
+  - pubkey: '0x003b67a454186e6ab91c3690f3e0bb5654bc5e19e3640354fcdf92c5fa32050f306534dc46f9c43c7f0fc4294c17984d'
+    withdrawal_credentials: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    amount: 3125318618877758264
+    signature: '0x58dfdfb82a7dea8e8c59d46cbfd79756fc741e07e4b13d1dd5f9746821a16ab341be660d154d0d978b3b07ee7c99faaef53f8670853ffd1abc275bf3de1537d8bfe00ac1bb01041da27a1abdff8e51a8fb8bffbb5433264de8aabf5068e2fb57'
+    index: 4229214425659894378
+  - pubkey: '0x2c77f64d06cde4201cba0078c53cf9439ec6709e8d140700b67fe90048bac22cf5d82a63eeafbb489b92c1d1725bb86b'
+    withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    amount: 12767138240198108440
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    index: 11815898354066683775
+  - pubkey: '0x6ad7547c85ffb39aa152691dd6f09dbd405d7d0a14556bac775fff1dd16d9921c83eaded2c264cb2f8f379e91dd9cf3e'
+    withdrawal_credentials: '0x0fbb47a81a1eb29af699f69dc60ae2deeeb5059bbb8f31b6aa5abf5485fce690'
+    amount: 13742372127203292297
+    signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+    index: 18446744073709551615
+  - pubkey: '0xe93bee2dbcc64f97fb7edc9bfa9a171ba633bb3c31a216c44d983a9f5d76046e4aa89769d96ee7f5551f502c6d32fb78'
+    withdrawal_credentials: '0xd944157bd712161c2373bd1e8501a1b9199d7d9e0cf13b094508c851c99173c1'
+    amount: 10265347582640938942
+    signature: '0xdf37b37f6db567bfc91440896468f4576c4bed0e7e9bf2ca6428bc8fd046af8354f5198cae830b08d277e2d8b3754ddce4855ef8ad0c88e6eef92f6d7454e289b46a5b900717c16381014e6831b3e99642a781b0c1215a056329ddec33d152cc'
+    index: 0
+  - pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    withdrawal_credentials: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    amount: 18446744073709551615
+    signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    index: 18446744073709551615
+  - pubkey: '0x8988bc8c0be221c5abb0c7b3eaf9a2ab114dd60d81fa0de552530d66f53b54be10dbd0b9d69cf392e0509e93d124b56f'
+    withdrawal_credentials: '0x9f9c8d22b83d72c6310c48a343403ebe8cc8db4f436e9c195980316e971a41ec'
+    amount: 10573160332002036005
+    signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+    index: 0
+  - pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    withdrawal_credentials: '0x5f27e4d6659d04fb3edf959fa45a679ca1d67987cde69fe7fd9e572c469bd7d0'
+    amount: 0
+    signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+    index: 0
+  withdrawals:
+  - source_address: '0x0000000000000000000000000000000000000000'
+    validator_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    amount: 0
+  - source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+    validator_pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+    amount: 8024107936899286587
+  - source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+    validator_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    amount: 0
+  - source_address: '0x8a2a22369f2b3783bf958b14332ae5d1dd1e9252'
+    validator_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    amount: 4990966761459466383
+  - source_address: '0x727cad9339c8078d64740e2b6fa60e8beb3f99fb'
+    validator_pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+    amount: 18446744073709551615
+  - source_address: '0x8fc1370929002af48abdf61e5a25c09b54653ff3'
+    validator_pubkey: '0xa76666317bca5d4bd41e2149214e9a8290ec081f1573bf71bc16892c59d292cfde9c4b2217f6f7d009eed0ab899ede38'
+    amount: 18446744073709551615
+  consolidations:
+  - source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+    source_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    target_pubkey: '0x33086266ee318f43776754fbafe840c0831b5ee54b663adb2fd4732c8c0da37088542802eb488a4b0cabb5b7b4b6e426'
+  - source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+    source_pubkey: '0x81cf02260fe3ddfcf80ecce4e04778ea60d1b6505d0dffae120d48168350f5878b851f62b8b6188c10cff008a7e801a1'
+    target_pubkey: '0xdb8eda21297ac918303cedbed3fdaf23ec437262805bb1a481fe08ef667f66014aba31c44348ac8268d39e94a43c7e05'
+builder_index: 3651760019206498814
+beacon_block_root: '0xdaae77f047a2ab7716455c95737c17e64dc3bd3bc5c024591d2aeb5d7c2beff0'
+blob_kzg_commitments:
+- '0xcab4cde587061058df34e4d3caf87af4712d28fe2e43dc26386f8d06a2808c7e49e2542090059daa3abe28f929ac7e28'
+- '0x5bedd34305a0a9ca94d88d839fb2509885e361710644dcd5aa9d5e352ddb45a6ecd8d729d465abd700cb6489fc6d5848'
+- '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+- '0x5f5ace63245863a021ed7e208eaa99286f0c211bddbf053585af5a89bfc3c9a8eeceb645bb06bbe738e8a169b44805ba'
+- '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+payload_withheld: false
+state_root: '0x64b2e4925af9caa6bcd40f21469fc687dffbaacf8907e378330e4d8dc1502a4d'

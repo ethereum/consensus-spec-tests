@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a62508999b7c45166bf4cf7d690fb56f41839e40919193ff41c3bff2296a63ad
-size 1128
+signed_header_1:
+  message:
+    slot: 10188769327151682951
+    proposer_index: 10952312607165705966
+    parent_root: '0x7993f8fab17d220c01b08f1eaf54df18a7899e2fec4d27a5e8801626c7d3f1be'
+    state_root: '0xff0329d9ce91a253e3e8fdc43852341152abe5a94efd48a30345da6e09776331'
+    body_root: '0xaec023b2c66da4e0ae2d201ba4c72192e9911d79162bd37384bee361443caf9c'
+  signature: '0x4fa22ee4d1228b3cb35e4f2c67be0c0cba9d8a1a19543ee558ed6d72b79805e19d12651872f71100444c45b1a2c187a55bb5958c048df498010b5fc5b55cdb3017178b0556503d72d2f9eed60211105e31c9b923613e796311faebe8d3d16155'
+signed_header_2:
+  message:
+    slot: 4857854131907251210
+    proposer_index: 1518393812645287204
+    parent_root: '0x467410d0e73f2ba8eb876f659e0b7add92f8de4b114bd21f2d0c65ba6a569f91'
+    state_root: '0x7bc6ba8ef87008fe6a369b1dd27d8fb9279cfcce042e72d565961780c3003d11'
+    body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

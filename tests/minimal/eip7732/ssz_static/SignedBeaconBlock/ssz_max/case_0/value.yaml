@@ -1,3 +1,535 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:973727441da7ae46b9f4843d0f75c43b347919adfa4949004d1f8b27d4099280
-size 39256
+message:
+  slot: 18446744073709551615
+  proposer_index: 18446744073709551615
+  parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  body:
+    randao_reveal: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    eth1_data:
+      deposit_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      deposit_count: 18446744073709551615
+      block_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    graffiti: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    proposer_slashings:
+    - signed_header_1:
+        message:
+          slot: 18446744073709551615
+          proposer_index: 18446744073709551615
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signed_header_2:
+        message:
+          slot: 18446744073709551615
+          proposer_index: 18446744073709551615
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - signed_header_1:
+        message:
+          slot: 18446744073709551615
+          proposer_index: 18446744073709551615
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signed_header_2:
+        message:
+          slot: 18446744073709551615
+          proposer_index: 18446744073709551615
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - signed_header_1:
+        message:
+          slot: 18446744073709551615
+          proposer_index: 18446744073709551615
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signed_header_2:
+        message:
+          slot: 18446744073709551615
+          proposer_index: 18446744073709551615
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - signed_header_1:
+        message:
+          slot: 18446744073709551615
+          proposer_index: 18446744073709551615
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signed_header_2:
+        message:
+          slot: 18446744073709551615
+          proposer_index: 18446744073709551615
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - signed_header_1:
+        message:
+          slot: 18446744073709551615
+          proposer_index: 18446744073709551615
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signed_header_2:
+        message:
+          slot: 18446744073709551615
+          proposer_index: 18446744073709551615
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    attester_slashings:
+    - attestation_1:
+        attesting_indices: [18446744073709551615, 18446744073709551615, 18446744073709551615,
+          18446744073709551615]
+        data:
+          slot: 18446744073709551615
+          index: 18446744073709551615
+          beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          source:
+            epoch: 18446744073709551615
+            root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          target:
+            epoch: 18446744073709551615
+            root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      attestation_2:
+        attesting_indices: [18446744073709551615, 18446744073709551615, 18446744073709551615,
+          18446744073709551615, 18446744073709551615, 18446744073709551615, 18446744073709551615,
+          18446744073709551615, 18446744073709551615]
+        data:
+          slot: 18446744073709551615
+          index: 18446744073709551615
+          beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          source:
+            epoch: 18446744073709551615
+            root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          target:
+            epoch: 18446744073709551615
+            root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    attestations:
+    - aggregation_bits: '0xff03'
+      data:
+        slot: 18446744073709551615
+        index: 18446744073709551615
+        beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        source:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        target:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      committee_bits: '0x0f'
+    - aggregation_bits: '0x03'
+      data:
+        slot: 18446744073709551615
+        index: 18446744073709551615
+        beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        source:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        target:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      committee_bits: '0x0f'
+    - aggregation_bits: '0x03'
+      data:
+        slot: 18446744073709551615
+        index: 18446744073709551615
+        beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        source:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        target:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      committee_bits: '0x0f'
+    - aggregation_bits: '0xff03'
+      data:
+        slot: 18446744073709551615
+        index: 18446744073709551615
+        beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        source:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        target:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      committee_bits: '0x0f'
+    - aggregation_bits: '0xff07'
+      data:
+        slot: 18446744073709551615
+        index: 18446744073709551615
+        beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        source:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        target:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      committee_bits: '0x0f'
+    - aggregation_bits: '0x0f'
+      data:
+        slot: 18446744073709551615
+        index: 18446744073709551615
+        beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        source:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        target:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      committee_bits: '0x0f'
+    - aggregation_bits: '0x1f'
+      data:
+        slot: 18446744073709551615
+        index: 18446744073709551615
+        beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        source:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        target:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      committee_bits: '0x0f'
+    - aggregation_bits: '0x0f'
+      data:
+        slot: 18446744073709551615
+        index: 18446744073709551615
+        beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        source:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        target:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      committee_bits: '0x0f'
+    deposits:
+    - proof:
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      data:
+        pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        amount: 18446744073709551615
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - proof:
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      data:
+        pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        amount: 18446744073709551615
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - proof:
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      data:
+        pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        amount: 18446744073709551615
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - proof:
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      data:
+        pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        amount: 18446744073709551615
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - proof:
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      data:
+        pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        amount: 18446744073709551615
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - proof:
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      data:
+        pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        amount: 18446744073709551615
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - proof:
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      data:
+        pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        amount: 18446744073709551615
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    voluntary_exits:
+    - message: {epoch: 18446744073709551615, validator_index: 18446744073709551615}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - message: {epoch: 18446744073709551615, validator_index: 18446744073709551615}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - message: {epoch: 18446744073709551615, validator_index: 18446744073709551615}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - message: {epoch: 18446744073709551615, validator_index: 18446744073709551615}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - message: {epoch: 18446744073709551615, validator_index: 18446744073709551615}
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    sync_aggregate:
+      sync_committee_bits: '0xffffffff'
+      sync_committee_signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    bls_to_execution_changes:
+    - message:
+        validator_index: 18446744073709551615
+        from_bls_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        to_execution_address: '0xffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signed_execution_payload_header:
+      message:
+        parent_block_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        parent_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        block_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        gas_limit: 18446744073709551615
+        builder_index: 18446744073709551615
+        slot: 18446744073709551615
+        value: 18446744073709551615
+        blob_kzg_commitments_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    payload_attestations: []
+signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

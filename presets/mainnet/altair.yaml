@@ -1,3 +1,24 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:910670e8969cd6722623a1d84734580b8377c3684d21cce82a3ea60c083aca84
-size 680
+# Mainnet preset - Altair
+
+# Rewards and penalties
+# ---------------------------------------------------------------
+# 3 * 2**24 (= 50,331,648)
+INACTIVITY_PENALTY_QUOTIENT_ALTAIR: 50331648
+# 2**6 (= 64)
+MIN_SLASHING_PENALTY_QUOTIENT_ALTAIR: 64
+# 2
+PROPORTIONAL_SLASHING_MULTIPLIER_ALTAIR: 2
+
+# Sync committee
+# ---------------------------------------------------------------
+# 2**9 (= 512) participants
+SYNC_COMMITTEE_SIZE: 512
+# 2**8 (= 256) epochs
+EPOCHS_PER_SYNC_COMMITTEE_PERIOD: 256
+
+# Sync protocol
+# ---------------------------------------------------------------
+# 2**0 (= 1) participants
+MIN_SYNC_COMMITTEE_PARTICIPANTS: 1
+# SLOTS_PER_EPOCH * EPOCHS_PER_SYNC_COMMITTEE_PERIOD (= 32 * 256) epochs
+UPDATE_TIMEOUT: 8192

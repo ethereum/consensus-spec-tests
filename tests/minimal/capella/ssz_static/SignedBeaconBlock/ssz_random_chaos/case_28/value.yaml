@@ -1,3 +1,254 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:eafb5fb97a49cedd9c7d0a2cfd7366fbdf40ee119f3dd589a8b9d7173b652ad1
-size 19390
+message:
+  slot: 6804967238267183389
+  proposer_index: 18080371293227169346
+  parent_root: '0x85652858d97d3e6f00ac45fa884d3e2616c2af39da639c342e69c7e4c79903fc'
+  state_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+  body:
+    randao_reveal: '0x7127793b739d656992a1ab475e0411f4b26d97af87ac81717bb7be99389e5c50783fc012f9a88e3145bf5a99142f7a0ff78a15a5335185d99e496b88fa012fd64e9c9e134774d06b467198cfa6762d8d631d9bd5acfd4271d46ae886d8b74290'
+    eth1_data:
+      deposit_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      deposit_count: 1346453465859302491
+      block_hash: '0xec26ee6d4e47fa4c9b0c69f53c6bb6ea9f8d5bb302424b591d2b174a5c77fed8'
+    graffiti: '0x12417b80099c74de82aaa9ceb56894966e1d33f732f1e60021dfc22d42606759'
+    proposer_slashings:
+    - signed_header_1:
+        message:
+          slot: 0
+          proposer_index: 18446744073709551615
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          state_root: '0x2657c31d3aebd9c5bec59d650ce9aab3181bc7611aaa5acd14c62140eb0762f7'
+          body_root: '0x8a15ec021911c395b6f02d1bccf4ca642730ec3cfe512fa97b52e786741fbede'
+        signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+      signed_header_2:
+        message:
+          slot: 12806119690128719965
+          proposer_index: 9156355914923210663
+          parent_root: '0x3233284220fc52acbc2f9ee812ce762ad72c57d5b10b5e44a0f5eaf841966eb9'
+          state_root: '0x0c255a484e48015055f0572fdff3f8b3c5256f709c45349d57310ee96f02e55c'
+          body_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+        signature: '0x015f63a26b9e37fa75fa2f034f65b9bc734507b61bcf2879a791dd6b516ec7cd8a82de8ad6cf094997c6c62b85ec99ad9d41aed545d79c754e89fab6911bcd5296ec8d0dfc5dde5fe6e74d42836f151e95cf85649d21613ca99cc5ccdffa0b44'
+    - signed_header_1:
+        message:
+          slot: 17461729768752746778
+          proposer_index: 11183757132951137681
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          state_root: '0xf3dd1fbe747e617a9d57ed0f6b04084d393ec38f3427698ad7fcf36591b51964'
+          body_root: '0x3e85c1409d1b3d69a8961e6ebdc4c6469822bffe8cbb1af51cfd5a83af9ddc89'
+        signature: '0x394b71c642ed7eed12af9f1260c38c87ff792804b7eea306126f930e1321a36c5816c599a970e7585094dcd5cf551d5e7b727fdf10779c744c3809f0a12739003c4ba53dd999b799d4721d22a0ca89ff954b07573b93236bc36bc4378087d45b'
+      signed_header_2:
+        message:
+          slot: 9770969298674255352
+          proposer_index: 3092404662042912626
+          parent_root: '0xe7cd6a58bc0e96928bc48e906e0367abdbded9eb0891048415206bcf59f50901'
+          state_root: '0x819912d435513369a77a01995754fa512b6bd5ec342e5717eb30d78929d72eaf'
+          body_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+        signature: '0xe0858b55e8fe2b94037afcb96aec3a3426ae9e88dd20764b65d69b5b3995ddd153f8dfd46b6e967382eaac89b21f18f97dbb68508b3fffcd31c57ae909ae0cca49e7834522ae7c1b8a0d037c7d3817259e0a48c3e6751657e3e457b1b10d6794'
+    - signed_header_1:
+        message:
+          slot: 17670258900181745352
+          proposer_index: 18446744073709551615
+          parent_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+          state_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+          body_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+        signature: '0x467535ed01bc3d9b213d25d20fbe184743f992b5f593120a4ce9852f20df5a2296f4391ac870b5bbbd23e7aed0f83dcd55b4f79e415b52bef7b9e4c67fb69695b27b16406da052c8e7440cfbf26c24672d8bbeb02ceb32128e8ed71431c071f3'
+      signed_header_2:
+        message:
+          slot: 0
+          proposer_index: 2270492182406873665
+          parent_root: '0x89c15aa57623bb4d41514bb171ddfccef6f7738834ffcaababd08334799f22c2'
+          state_root: '0x759c2d286a2a37caddebe6425244c545bde340b4d1c94b79410f58ec589cead6'
+          body_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+        signature: '0x43bb9f8a3fb9b9c3d07234c173905e3487a43514a2ec82ca3b174b77ef1783ed6bc9f37af6a7343abf37f907eadefcd3ee18973a51def3c4fe03d7a7b0313daae1556a37aee02c97312cc1069dd0083fb3059472339b1ecec5d644f6c30db954'
+    - signed_header_1:
+        message:
+          slot: 2642422432141729436
+          proposer_index: 7348339032385175631
+          parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          state_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+          body_root: '0x17a1c34b91fe4e72f27901993d3512c3e245b0f38f4b766ddf59f57241240a15'
+        signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+      signed_header_2:
+        message:
+          slot: 1285310867195734775
+          proposer_index: 18446744073709551615
+          parent_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+          state_root: '0x2239503adfca05b1ecd059145f5b21031db4ed4314b2fc81bec163ff71a78a5a'
+          body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+    - signed_header_1:
+        message:
+          slot: 18446744073709551615
+          proposer_index: 694535578822350650
+          parent_root: '0xc0c0d3f377bb16aba359bc0e144f4ef975a3c43742abb52e85cafa9ae972f845'
+          state_root: '0x4bbeeace066b3349689626a38a93ea336d60199d6240428bca5f511c317b711c'
+          body_root: '0xf2ddc6e195680ac7b2dedf43aeee7147b26d4af60070994aaf40aaa3ec79ca00'
+        signature: '0x92d7024d8ca1f1a9e0b13d83e4a6755cc5e65551f001d4cfe088da9be99b9e63369bdbc91bdad280b54a48f1bfa4598207867f6f844bb79a2eb7bdeace13d6c5f568281f4118146905354cf0a4db9bca41fc6067e13c949677968dceddd13fee'
+      signed_header_2:
+        message:
+          slot: 18237108038919848451
+          proposer_index: 8332896426741779255
+          parent_root: '0x275380a79613113464a15b8b9743d6eabfd4a2cb7122b6af899901be8362eb40'
+          state_root: '0x3440d69b0689a471d03bc80c47ddd3724816d7827525a594b5c47ca9f5c835f2'
+          body_root: '0x0942883a840bfd9bb2c1509d04203ceb042ab50e469d3c83a1f7c587a5a77da4'
+        signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - signed_header_1:
+        message:
+          slot: 2016498507034474075
+          proposer_index: 230594005708541613
+          parent_root: '0x22fd483a0cc7d37b4791cc934b992c8975ae67144f362244a10f2ea357f249ba'
+          state_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+          body_root: '0xf921fdcbc656ba28a5781a78e4865b03bfd756b7b90075a03c714fa4d312ce81'
+        signature: '0xe8cbbeef4faa3f7273e80eec0d440f58b03ea5cc5bf7dd75c6ad81be2bf3de969079affa04dd71dd70dc437b27e9fbbd8917c7ed0d7cb4bffa7bd51aa174d0d8ed22bdb602f26b22748a1fd145fabf1bc6bbc4ad4b4e618e4ba08ef81de802a9'
+      signed_header_2:
+        message:
+          slot: 2846514628466828192
+          proposer_index: 18446744073709551615
+          parent_root: '0x158e9ea2b4264a87f5ba1628f895ecdea837c143886cfe57573a4b3433cd8d9c'
+          state_root: '0x69f6598e727cac6cf8d08e25572ed93604f66759e679d63b71129c59d72accc5'
+          body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0x4f04f34f49517fe8a7dd936a9cf4788374c756cfb15f3ba7785bf7ff1805356c2110797228c44a539e20346a46a00bbbbce74e526c08dd3c6d89e9acfe3097462e422871dd1ea1c6f1e22a1b5a601e246a29702f1bbc991d751a6a74d799d6ef'
+    - signed_header_1:
+        message:
+          slot: 8253527887069062456
+          proposer_index: 14938391807335173883
+          parent_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+          state_root: '0x92a207b2b15c9b3c2c4bb6f336a555724d1e6e5ff156157dcb0c98599b926b24'
+          body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        signature: '0x85674ec2cb16ed90fe2281d2d34f1dfc8b8cb5230022720afce088aaf2474cb498f316458b584d9856d6a13e38de67ca30a765dcda3130808a861a6bafa60ed2357ee8d0e9e292f0986402b0318b7ed51716647d8fe10ab2d240da7b36edd19a'
+      signed_header_2:
+        message:
+          slot: 5226595821753809716
+          proposer_index: 5846756889569947097
+          parent_root: '0xf3388630a4951e073f568dd99f7f48c84194ffeb9ddc2681263bd39d370c592e'
+          state_root: '0xfbdf3cd40e13dc4292f5e4065342571b8b6caf118edf81ccd10f959d60cdd1e9'
+          body_root: '0xa4278d0ab670c5cf7bbbc6955c58db46bb94c89375a1ee90a31a7c52db05315b'
+        signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+    - signed_header_1:
+        message:
+          slot: 1852215001675221828
+          proposer_index: 17326757729003938798
+          parent_root: '0xb6bffb41f78d22ceab08b2c557d6d6b9915c0478741d94418505cbdf34fbe8a3'
+          state_root: '0x033511b2ff81f94e5f83e5967fc460e4f0d73c8e9135053c86a3219fc109fe95'
+          body_root: '0x12ba664449c2916947a9e162fb472bf13399ec3d734b54dbc701aacab7125fda'
+        signature: '0x105c71816eed9c8d0a911481aff2a3008c5e5592bf82f0b9e2bbe0ae6077bfe56d50a912bf65c9d2c64d9f06a1eb2f0fdfc362ab89b94601144e8299b6e034853be6f9062282ffe0f2903b974e0a534869f0cddfa7747f9ac1b5fb12155137b8'
+      signed_header_2:
+        message:
+          slot: 0
+          proposer_index: 3450338814618604102
+          parent_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+          state_root: '0xb15d0167f1814c4dcf7f19b8f2ed5180f22c5327fcc90c305aee9e5276130a93'
+          body_root: '0xb18b261ae11dc176b5758418c71d8540f63ef8e367785265de0245289315aa5e'
+        signature: '0xca0ae003c4156f0d3f8aedcb4a6e94e7661a8ad460273b416f0d3b3adb026dafbddb6406381889e08b446054c025ab4243d985f6eaa0a3206b279807b448cf8b2052d356d0eafae8216fecabbcf4077a3860f34556f07fe5ad563f2fed528a20'
+    attester_slashings:
+    - attestation_1:
+        attesting_indices: []
+        data:
+          slot: 12070504114070506011
+          index: 14930566286729620088
+          beacon_block_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+          source:
+            epoch: 18446744073709551615
+            root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+          target:
+            epoch: 8642594874119283517
+            root: '0x2ba1e43de1761f97f6de9d09c6ee8d5ce0a8214ef71358826f0583cdd63fd908'
+        signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+      attestation_2:
+        attesting_indices: [18446744073709551615]
+        data:
+          slot: 0
+          index: 18446744073709551615
+          beacon_block_root: '0xec262d26f420300ec9d8dc0c43482262f4d491faaadea7ab7658504e1fbb6678'
+          source:
+            epoch: 10065155713943849690
+            root: '0x2a763d4dd87e676595d9b5bb90600d8dfe9d2aec856b29fd8c15866df2903e8f'
+          target:
+            epoch: 0
+            root: '0xf667ba6b6017404d333864aa769290282db3b11c81c6c5d3d9f3f501a965e325'
+        signature: '0xf45e4cbdcd0e5593e25e1134cf0daf7946d7c92aa1b7e51450da57c5f4b6ba287f6f01311cd0323b915e23f655df9f1b0dd8e04912d8da3b9d614eee9051e04ee8bdc5717a739013d47f0700044a6bb01691653d1baa579bde7cea54a44696b7'
+    attestations:
+    - aggregation_bits: '0x7b04'
+      data:
+        slot: 4869732834192007524
+        index: 16334342284441767295
+        beacon_block_root: '0xa1f5a2e243c12fa6d11156f6acb6ff67c87a4b67658434112016c950462d6c8b'
+        source:
+          epoch: 18446744073709551615
+          root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        target:
+          epoch: 15638595700846141148
+          root: '0x6449142fc150fb1c42fa5151f4dc90244083615bac406a9da9057ba99f487a81'
+      signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+    deposits: []
+    voluntary_exits: []
+    sync_aggregate:
+      sync_committee_bits: '0x09855992'
+      sync_committee_signature: '0xd26334dc0557c2ea298fc9eca7c4e9d59bcbfa1ddcae0b23b4a5eb3c119e6569f7513c7f95fd5bfad2517bc8476777af21cc2b76e309cdbc5093c99f118a51d9caae6abeda509b40c3d4df633ba73f890450fd1a7b2c1b3b7ff9d6a7595f068f'
+    execution_payload:
+      parent_hash: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      fee_recipient: '0x0de642859b3b76801db0b736b80ce08666b51636'
+      state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      receipts_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+      logs_bloom: '0xf1162da1c65d104c803895950940d172cb09093c6bae1efd121f4a7d42b7201ff1c82fb86d5ef0841ed10b38e43d94455e7e99ca99c975f6de992b7556ee64c0129db7fa6606e9dc9a2e25b01fe2ee61e81601d9cbc5b1914ffaadc0bbc4cfd4d3a18cc651a82a955546427ab0ae766f6bd437150739b0fb2ec59955ac3fda24cc443ac0b0662514e9b8b971959588960bcd41e0b39972127757a0ffa53a987ca16e331cd0770cecb910bd39088db0c8f496996f8c07488fb1c92d0cdce31840420edda55990867c8911b24b6478fc4b0d1e061f9056616efca4a9c134c3d64373b8e77944a1d2ed0d5f58d92831d505b408c61492cfbe718aeba9c2376a9c31'
+      prev_randao: '0xbf473b5ec9def53a0f57019f3f68cfff5e22592009db8dd3bddaf71e8ac32e69'
+      block_number: 1631604140879308986
+      gas_limit: 6493277735794809903
+      gas_used: 1115705756624235202
+      timestamp: 300618098168099386
+      extra_data: '0x98'
+      base_fee_per_gas: '90309655896209814802297345442347050635418585072206297150819939695347474687553'
+      block_hash: '0xaf5f54446b41919c492822150dab5ccb165989894924929aae343361930fd02b'
+      transactions: []
+      withdrawals: []
+    bls_to_execution_changes:
+    - message:
+        validator_index: 0
+        from_bls_pubkey: '0x62cf3201272f76ec3e99bec8d96f120593fbdebd2f97aa45f665e06fadd3dad4c0e65aa37bd6870a6e734dc315fe3ae5'
+        to_execution_address: '0x803a2d63af17aae50a851a22de00338cab5e128f'
+      signature: '0x1622943998d160d2a6ea2dfc2bd5889f68e5ba3b3f413a632626f2d0f10b0b38cf373386243e52a71e478ab45cd15b94155b4adf98855311639b16d4f3bb9a0d5b76f6edd3e802760f376a46b08d8ee2a61f500bd5ae74b4ca10ba9d679e3d09'
+    - message:
+        validator_index: 0
+        from_bls_pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+        to_execution_address: '0x669ff3804205587e799c7d1bcdc9de72bf282998'
+      signature: '0x3b1e45ffbfefe47f3ded41603a85fe937ccc7bf36fd03cf460820afcdb14ef2451b05be4fa61f81e3e49eb9fe929fb785573b72dc59caf6ce8a6a4b7eebd885ad34b36040567ace0d24ecb6fa4898e462d33c2fd9752523e617915cf424aae4f'
+    - message:
+        validator_index: 18446744073709551615
+        from_bls_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        to_execution_address: '0x0000000000000000000000000000000000000000'
+      signature: '0x00df06c0b7fd07b7e027b08755100bd4b80ee814e462cc17795dbb97fa1cedba10a3bab7a2cee89cfa17983c48a93f30b939b310514febc4969703265dc77a3e20b0a1d8558924493804c43c175805287effcacbf878cd231b902e77f5589465'
+    - message:
+        validator_index: 6068075402932783203
+        from_bls_pubkey: '0x4f7416c48be8ddb2b910f36947e8e019c125af023d97f7a9e15597db77b0511367ba410962710539417370fb2683eae9'
+        to_execution_address: '0x9c814f4e642805609a84fd15e34a41c0344f451c'
+      signature: '0x6001acb8f90c3226292bd48fc66956a52e6857afd7368609c56ab18559e026bb4e38c355d7679f17ce9763b82a984e26679f568c99020f5def9d9cc71ee1dc45ba226d7b6f9872e60cc169645ba7ccf3039d445229b6f3f3c07877d780b795cd'
+    - message:
+        validator_index: 13412449706736899826
+        from_bls_pubkey: '0xe4fc63c159f2e173481a5c107ec218f4aea488d8f2403bac20392505bbfe6d0625c2559b38c8481d1ac763a9e066429c'
+        to_execution_address: '0xffffffffffffffffffffffffffffffffffffffff'
+      signature: '0x4dd588f48268e2754bba6fe8a92600a1f635dec55942c30ae3115f275a093483ed04e913b84f46425f2b582a112db69aa514ecc02c145cfda80a94f56cc6a4b8fb7335d51eabb2bbfb70d35324dba40b7496451d75ecf82dbe341453149af09d'
+    - message:
+        validator_index: 16646018776285833411
+        from_bls_pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+        to_execution_address: '0xffffffffffffffffffffffffffffffffffffffff'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - message:
+        validator_index: 0
+        from_bls_pubkey: '0x4871ede78c2f05623f97f8716d4e5f4cd47dca92e291370b1d02550988278f4b0a54058fef048ae67e4bf1ce3133e2fd'
+        to_execution_address: '0x468f3199c7be1c466938e721c5fb6e6444bf0f5b'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - message:
+        validator_index: 18446744073709551615
+        from_bls_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        to_execution_address: '0xa2a07e69ce2b0dde71f7b8f055d4bc0c03e98f10'
+      signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    - message:
+        validator_index: 0
+        from_bls_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+        to_execution_address: '0xffffffffffffffffffffffffffffffffffffffff'
+      signature: '0x58ff0ef5554d39ba45b2a7daeca115b5f40ff9d5d1170631fb5fcebda5f766488ecbe236f10e42b2d03d3f53026bb65feb22cd07284d8e07482042c90cbab164ddb0078e6efd3932d4c17abeb74a8d8dfb34327f598abfbb0ed96d6ea80e53c2'
+    - message:
+        validator_index: 13611280395306092612
+        from_bls_pubkey: '0xdaa2ccb392188f2cd84ae36521ec7bede354a3fcb685ee91a9a3b16b60ab49739501cdc2917bab8416b16591d96c78c0'
+        to_execution_address: '0x85f879e01158b9f31b85b282962a273e8fb9494a'
+      signature: '0xa360d72902a20f6f1e9c0b36a31b1cc306968ebadc6e1cbe6f19202593806c4a89c4229b226ebd430496d3d87efb9f7555adff30ab9ce91c8b271525203c14d552e32744e906e6e2137c74c8c536e83a0ddac198c6964ae0ae467d465f17ab5a'
+signature: '0x53e96d317e2b2a19e69337b181f3377da425795782229e14d72f965ac80c23606568fdfaa21aa1b35a7fdc578c69dc2876df7e2479de165e284bf2618cf5c212d19b0e1b59708007e5ad1bd463d2f3d8cbc88c06e372ab5846ba7118a92a0090'

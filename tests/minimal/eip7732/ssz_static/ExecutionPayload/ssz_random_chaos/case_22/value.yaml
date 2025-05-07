@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e75c00939db7ba89cace3d550ed8ee59854a191c7f4c67c83f260497e0c3c266
-size 1882
+parent_hash: '0x5a6f5b1f0cf0ebe0b7990b5b74e5593bdb8ed488037e12fe031b0e79e007af8b'
+fee_recipient: '0x2e666505e4fa531b66fd2fa83e28da5a07d6a646'
+state_root: '0x618990ec279478829f0ecf03efc4a7ba8b26158c407cae814f6ddc38e8d0432e'
+receipts_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+logs_bloom: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+prev_randao: '0x726d091cc714819ba1b68147671f290b1fc4ef2ad7c7029ecd053773de6e6e06'
+block_number: 11750162083896937790
+gas_limit: 0
+gas_used: 18446744073709551615
+timestamp: 815138637611244437
+extra_data: '0x00'
+base_fee_per_gas: '0'
+block_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+transactions:
+- '0xff'
+withdrawals:
+- index: 6234849087200230779
+  validator_index: 9439338972582260935
+  address: '0x6d08cf5e80705e5cd2e2581352f5ec890cf1cae2'
+  amount: 7879837679268984561
+- index: 18446744073709551615
+  validator_index: 18446744073709551615
+  address: '0x0000000000000000000000000000000000000000'
+  amount: 12884600419919739121
+- index: 7229319410382927715
+  validator_index: 6493923374048893835
+  address: '0x6da4958915c54bc3bbf8c96abda6ee691e3c7dab'
+  amount: 16216661945243336041
+- index: 10019338784822532283
+  validator_index: 18446744073709551615
+  address: '0x95074f63d5a94792eb6aac84f6d9bd61631d6cfb'
+  amount: 17659544382946734136
+blob_gas_used: 12081722069683745076
+excess_blob_gas: 11714733096143797737

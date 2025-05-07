@@ -1,3 +1,52 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3fd888420d67e0946f31b85f0d9041cdb3d2b0e8f5a0e356da1876d584e7c4e9
-size 2048
+- checks:
+    head:
+      slot: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+- {tick: 36}
+- checks:
+    time: 36
+    head:
+      slot: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0x5f09d2734d7463569cc08024dbf35d121eebac6ea7bec54e597f37dd0a6300ad,
+  valid: true}
+- checks:
+    time: 36
+    head:
+      slot: 3
+      root: '0x90f001a5e1d1a8b2946ae8161b918015977337db644ab0b88e5b8fbd3121a0e4'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0xe95ad5c74aab2232bb17e01953786bb259497b40fd8ef590177c14d565821797,
+  valid: true}
+- checks:
+    time: 36
+    head:
+      slot: 4
+      root: '0xb0aa701c974acb623cd406aef204f702b91487705ad26a4851f09484937b2e4e'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {attestation: attestation_0x256d81d7b208dc1572c20f7fb6c6c7a4d02527455a21e7cc8d2406d74e1c80e3}
+- {attester_slashing: 
+    attester_slashing_0x8e163a85b62b1dfe746658988e16b3cbee59915f97cbad890ed3a064b3e61c73}
+- checks:
+    head:
+      slot: 4
+      root: '0xb0aa701c974acb623cd406aef204f702b91487705ad26a4851f09484937b2e4e'

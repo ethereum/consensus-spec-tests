@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:42472c493f57ef9b52d4205ead482a4ec8ecf98b6d73d0ce350719b1d7d5c8a4
-size 476
+# Minimal preset - Capella
+
+# Max operations per block
+# ---------------------------------------------------------------
+# 2**4 (= 16) credential changes
+MAX_BLS_TO_EXECUTION_CHANGES: 16
+
+# Execution
+# ---------------------------------------------------------------
+# [customized] 2**2 (= 4) withdrawals
+MAX_WITHDRAWALS_PER_PAYLOAD: 4
+
+# Withdrawals processing
+# ---------------------------------------------------------------
+# [customized] 2**4 (= 16) validators
+MAX_VALIDATORS_PER_WITHDRAWALS_SWEEP: 16

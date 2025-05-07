@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:06965d6ab5a2b36427c0e065ecddeaa616313731297da574f4c795122dc19119
-size 86
+{description: "Although it's not phase 0, we may use altair spec to start testnets."}

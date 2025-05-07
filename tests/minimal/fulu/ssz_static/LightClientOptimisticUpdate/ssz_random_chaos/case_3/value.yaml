@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0af64f22527f56b9c729b9c3db3ffc7e47ab81cafae9a68957cdea8ea9e1884e
-size 2498
+attested_header:
+  beacon:
+    slot: 10050556680636363857
+    proposer_index: 18446744073709551615
+    parent_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    state_root: '0x60ff1236c6ed7105a0db7b60d3e3853c65cd87e6f9f692bf4a17b8a3cdaa5829'
+    body_root: '0xc2418c81484e19e2389e258e45f2d7bbff015976bf68cbbc3be973d8663174bb'
+  execution:
+    parent_hash: '0x2e2b56f706cd10d66260a159edffc0e9ad13b35dda0c0b598138bbc60938874c'
+    fee_recipient: '0x900b9269d32a3791a9e3471373677dd55e119308'
+    state_root: '0x7adfdea96d0273767e652b7ba0a44a6ffd4a5c279654bd16f0f89aa259ff87b4'
+    receipts_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    logs_bloom: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    prev_randao: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    block_number: 18446744073709551615
+    gas_limit: 0
+    gas_used: 17926414468519050200
+    timestamp: 6262294185134190037
+    extra_data: '0xff'
+    base_fee_per_gas: '111587165686286738555836925937526162855043959944946920300337978345103702725975'
+    block_hash: '0x616bf9ccc859baf4a016a698ee6a04a77a181d92fc6a801fedaff21458255def'
+    transactions_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    withdrawals_root: '0x1ff19917bc81f63b69b7973592a439b7408344e142ca8844f04fb95221e58d72'
+    blob_gas_used: 9983135449062082595
+    excess_blob_gas: 0
+  execution_branch:
+  - '0x70d6b6a92332f744cfa715a08ce7ae42f227e51c3c201c674fa1f87e9a4744ac'
+  - '0x0000000000000000000000000000000000000000000000000000000000000000'
+  - '0xa51b614dbf90b627bdf76ef49d0a91625cfd1c03a6a628b29ab2e0cf8d9008f5'
+  - '0x69e526372666442a8f0faa402c34e260f348f54b07ed40ed97169da0ef59d00d'
+sync_aggregate:
+  sync_committee_bits: '0x1560bc3f'
+  sync_committee_signature: '0x1e82a60757cdf1562a2a7973a0c4546608bbace9f52efbc35bd98f15ba72a10159ec367e8047e33f35161180edcd7c736c6b287cc9d017cb3cab4f1550620fdfeb1ccb8f01ed66130a7c8a5087f33408c55839bc124eba6bd5b468504f6de229'
+signature_slot: 0

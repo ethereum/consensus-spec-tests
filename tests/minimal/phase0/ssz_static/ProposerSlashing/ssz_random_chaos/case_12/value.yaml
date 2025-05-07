@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:15356b5ce94ae766d78a7ac2f185c5f4470c69df276923a4a4e4c0e94411aa39
-size 1127
+signed_header_1:
+  message:
+    slot: 405574164287132409
+    proposer_index: 13261460894043014491
+    parent_root: '0x0ded05f901c8735b6ada5592c2648206b22c68deb5d06886907903bb92581b84'
+    state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    body_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+  signature: '0xb11ebe3267c54405ad5b51bf6010bc02badbc6e8c8d24851f511376eb42ce01ed9e507f3d476e60eb0e7aa33fdb58f676d4a88adc328545c5e05c34c4de9394a187d169813e5e36520cfd8aa2d08ffeb98b8b4b703e7ebd113c200459842642c'
+signed_header_2:
+  message:
+    slot: 11666372298464365492
+    proposer_index: 4503282929675774020
+    parent_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    body_root: '0xbdfcea8a74c40dfa28ca0cf618040ef6284bae2b03c90d521a54f8004f4a0b4d'
+  signature: '0xb1b3ff3be4a49030a1c65ea8391e1f1a4c3844d64f6c94512eae642f5b51f6b76f1e9521947b8dce9c41c2a61340e70245c0adcc76ae7a5de6fca8e1ba2c843112eed7bc8ae06391420563ff7dbfcc49ddbc29eb3403c8851342a1f9e25a0b7c'

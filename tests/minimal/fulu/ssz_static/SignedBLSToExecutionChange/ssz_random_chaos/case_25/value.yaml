@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:3ab5c407249b7be86ef8ef8e0f3dea21ac3343662db89ef6aaf01dd88542c808
-size 446
+message:
+  validator_index: 18446744073709551615
+  from_bls_pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+  to_execution_address: '0xd8ad3023e58b4c06de116bad11f29a1e40e408e0'
+signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

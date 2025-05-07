@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:89f3fa8563a48690af1877799d6c6e6c3e76ab7155e0c07813fff9eb6fa17492
-size 494
+aggregation_bits: '0xed03'
+data:
+  slot: 6292195128007739513
+  index: 2504587139963623976
+  beacon_block_root: '0x84e84f697bc5fc38bd0bca38e125f3c6071aaf7a671d80fb26257fdb63ac24bb'
+  source:
+    epoch: 12547827098456868555
+    root: '0xb499e23251607033d9beedc58f83db74441d79780af8752a67fc5590b31bb3d6'
+  target:
+    epoch: 4688922193038964587
+    root: '0x25d8675ed65f81c1a0fd031279a5bb071da4e7d7e2e5e5f65648eeb3d5a290c5'
+inclusion_delay: 1454836586655926499
+proposer_index: 7143233741378605743

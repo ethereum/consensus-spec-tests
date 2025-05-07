@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0331fc9a396ccf3647afa45c8dee8875ee6b6224f61bb848187c582568252398
-size 2515
+attested_header:
+  beacon:
+    slot: 17634854835340934248
+    proposer_index: 8881126560170341519
+    parent_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    state_root: '0xa4aec195f36e786079f889c27a2c3bd69f5f04e5eea106648b621afc1fea0d4e'
+    body_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+  execution:
+    parent_hash: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    fee_recipient: '0xa48f56f30988995c85c832e1f3a39d1afe3b5263'
+    state_root: '0x648e0f423e5d13fb4bdc6d84eb54906f5bcbdb4211486a31563e88df25067ab2'
+    receipts_root: '0xbd1b233b64e31ff6b2ffeff4a8222a5086e0ca8b2c779a0b3ada01ffc92c8d83'
+    logs_bloom: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    prev_randao: '0x69a05ac378414800ef1ba536ad0d6401027d01caae2f5ddcfcb71b19fac11e8e'
+    block_number: 18258939929280362323
+    gas_limit: 0
+    gas_used: 2187459160574658032
+    timestamp: 12261350147260534633
+    extra_data: '0x'
+    base_fee_per_gas: '115792089237316195423570985008687907853269984665640564039457584007913129639935'
+    block_hash: '0xe177c6890a95b0abf0f2b3d781c6de5caa714e90ce9d431e05a425ed049858b7'
+    transactions_root: '0xafcec5d6722b051a8d065acf95fbe97988f0e87269bcf8f152543260ea9efcc6'
+    withdrawals_root: '0xd99162cb3eb18779ffbdad70c4535a0791b1db5d10b4d3ceb7c477398acd0db4'
+    blob_gas_used: 0
+    excess_blob_gas: 14477809925985080853
+  execution_branch:
+  - '0x945e636ee786c84c73a81c2195cf4ace5c0683a42e763d75dd7a4456dfc844fd'
+  - '0xe44fbe6141ec80723e5164a1eec2b6e22c2acd5d7bb20f7c428d83dfb3a87175'
+  - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - '0xe9f50d20df6d8159d9c7d8c2ac9972a6a8ba9763b4c90df2e4db507a86362ba9'
+sync_aggregate:
+  sync_committee_bits: '0x734b7852'
+  sync_committee_signature: '0x80a8650db244ecf3652a1b39f9973cce9ba4f5aa5d11fdedc991f141a765e03f8107ed9ee34fecf9b9b44a160588340a23025e6d07fd8ba82d8c48d66b60db08aea07dd440037e58581c48eda9f4839e1e44a2dc924563b8a069643fb070d58e'
+signature_slot: 18446744073709551615

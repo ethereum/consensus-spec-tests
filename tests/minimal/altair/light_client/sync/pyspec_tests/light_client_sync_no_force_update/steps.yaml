@@ -1,3 +1,31 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ef5fcfd46f326b9577c02cde77910defc05db31da89883774f6d3f0f8c6cf61
-size 1192
+- process_update:
+    update_fork_digest: '0x15cfa0a7'
+    update: update_0x280701f35500d4bd3757adab4331299b92e44b61d669488a55adb11967d34b75_sf
+    current_slot: 41
+    checks:
+      finalized_header:
+        slot: 24
+        beacon_root: '0x9001cc7abda67695faa5885ba260e5924672e596f62caa958b1f674b5f242947'
+      optimistic_header:
+        slot: 40
+        beacon_root: '0x280701f35500d4bd3757adab4331299b92e44b61d669488a55adb11967d34b75'
+- process_update:
+    update_fork_digest: '0x15cfa0a7'
+    update: update_0x280701f35500d4bd3757adab4331299b92e44b61d669488a55adb11967d34b75_sx
+    current_slot: 41
+    checks:
+      finalized_header:
+        slot: 24
+        beacon_root: '0x9001cc7abda67695faa5885ba260e5924672e596f62caa958b1f674b5f242947'
+      optimistic_header:
+        slot: 40
+        beacon_root: '0x280701f35500d4bd3757adab4331299b92e44b61d669488a55adb11967d34b75'
+- force_update:
+    current_slot: 88
+    checks:
+      finalized_header:
+        slot: 24
+        beacon_root: '0x9001cc7abda67695faa5885ba260e5924672e596f62caa958b1f674b5f242947'
+      optimistic_header:
+        slot: 40
+        beacon_root: '0x280701f35500d4bd3757adab4331299b92e44b61d669488a55adb11967d34b75'

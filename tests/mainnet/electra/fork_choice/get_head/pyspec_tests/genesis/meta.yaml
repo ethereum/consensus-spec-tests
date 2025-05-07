@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8ae4e1445b7fb57811f8b7e542f18dfa11a10c22fb245cb32dbfc3e1befb39aa
-size 87
+{description: "Although it's not phase 0, we may use electra spec to start testnets."}

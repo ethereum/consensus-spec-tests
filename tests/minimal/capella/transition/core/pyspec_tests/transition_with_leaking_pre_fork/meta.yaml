@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f51935fdc5d2e085d4fe28c7c7d9e65b9aea0f128bba2e34ac0a444fd1db452b
-size 53
+{post_fork: capella, fork_epoch: 7, blocks_count: 2}

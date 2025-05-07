@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:328db274ea70016bfd6a804cff451fc47c9ffb9a646eb62d70b96ef7e4906ff3
-size 1009
+deposits: []
+withdrawals:
+- source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+  validator_pubkey: '0x3c495e945a578775ea7d04bc79a7cf6aca0d30d2ad403ca605d26def79f8220c2696297b0ee4e702f4c4143e4c8fb734'
+  amount: 18446744073709551615
+- source_address: '0x312e6382878c81f17156502634ccb9427db43792'
+  validator_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  amount: 7056800874489622144
+- source_address: '0xfd57173ef9b469af4df91649dbaac55a6588915a'
+  validator_pubkey: '0xe6111814f1aaa45918fda78638015a579b2d9130c95a12a8faa41d01293756986849e077a38fc45475e12b5bb61795b8'
+  amount: 1851535135334023338
+- source_address: '0x52ead7f6785e53f00360dc26b15c76776f38df5d'
+  validator_pubkey: '0x46cbb8602884666f91e9a2d6cd088964f6559dd8635f8958318943b3634655d601b17e15ea0605ad067dd6ca98d5ec3d'
+  amount: 16242390232077665827
+- source_address: '0x0000000000000000000000000000000000000000'
+  validator_pubkey: '0xcdf6209a23a1800a2ba4007ce72fc6799eee6b2a4285e3a3403a1142bbeaad3f6c6fb00ecfd51cb45d7f40cc8edd08c5'
+  amount: 6219947868763032377
+- source_address: '0xd94ce69c522530748021112d8fd7b658fc64e568'
+  validator_pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+  amount: 0
+- source_address: '0x3d00978f22fa19d3be57e9f2d1305be4341d473c'
+  validator_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  amount: 8509416397956362976
+consolidations:
+- source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+  source_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  target_pubkey: '0x8191c9b09f06a7cbeae77fe541129d39e96ad3fd760256b4c809d011d3817138080a590c72e2b94bb76615e7447d9e11'
+- source_address: '0x8bab00bb5e0574161853134aa6de2a25818bc173'
+  source_pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+  target_pubkey: '0x3d39df568cb2ef4aa4486dec70496ca27a66615e4e4c996b393035455bdcfde2305fb39f7be17c7487efc4ac86bcff76'

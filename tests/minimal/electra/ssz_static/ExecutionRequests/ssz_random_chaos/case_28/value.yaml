@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ffdfe9cc51c36ae7a6a3a29fc61933f0ce2085fe340df9f20ef72c84c696ca4c
-size 1030
+deposits: []
+withdrawals:
+- source_address: '0x6a99a23ec27f0a7c63a5fee3ef6694fb8fbc151c'
+  validator_pubkey: '0x5f4d46ea56d6671794d805a5ca80ba4945cc6baddf9ac96ac7d1d0683c4fcd342e0e7e969c69eccc10c152911b0ece90'
+  amount: 16173652462371687126
+- source_address: '0x032cde880e970165dfdc0671ccc0e273e60eb730'
+  validator_pubkey: '0x1dd247034fe203c9cbd958acc381b8634a7cac337e6b093eca7c01007552f0114f0a0583b45690c427cb06a3940211e1'
+  amount: 3705205899779387270
+consolidations:
+- source_address: '0x78adb58cce7b048520d83f62a98c6c15d8ee21fc'
+  source_pubkey: '0x2004e1ce7ef126b77e14fada9de64a44f7f04a45b859da8da06543366ae0b42fe3a05f5e8619c61ab4ca7151b72f3d91'
+  target_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+- source_address: '0xffffffffffffffffffffffffffffffffffffffff'
+  source_pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+  target_pubkey: '0x572db380a880f3f363510b8edaf0c34711c38c93d130a24dfca154de0c678addd26d80f3e4d1c5db2dbc48dc8aab1703'

@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7efd1a6f6afda6d2c267619aa4cc5f5eb0a4f8e7c90940b382bd73d87a67904e
-size 417
+pubkey: '0xde2e46dffd451079177c88466e447e811ec117e003586cc7ff7e976f0ac7c1d06352e25e8785ca8739a0c11b65a24b40'
+withdrawal_credentials: '0x1debe4336a175e1e7e9dbd83a3f157d7f629be46d17216f6a5901c5b05f192cd'
+effective_balance: 18446744073709551615
+slashed: true
+activation_eligibility_epoch: 11154141051067563036
+activation_epoch: 7980464284154129381
+exit_epoch: 5420619247805175187
+withdrawable_epoch: 2993070939137581529

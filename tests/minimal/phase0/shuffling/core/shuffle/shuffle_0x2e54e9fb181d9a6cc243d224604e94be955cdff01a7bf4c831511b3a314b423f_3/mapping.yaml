@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:518b434847ddc0301bcdeafbb3d5bac5f6ba83f9ba49f20bbaac3efa65d3b706
-size 103
+seed: '0x2e54e9fb181d9a6cc243d224604e94be955cdff01a7bf4c831511b3a314b423f'
+count: 3
+mapping: [0, 1, 2]

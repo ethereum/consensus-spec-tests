@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ee71920ed929773ab1a7fd15665a8625e80ffcbd8a441bf4ad8c877177e31ea
-size 50
+A: '0x29'
+B: '0x03'
+C: '0x01'
+D: '0x01'
+E: '0x25'

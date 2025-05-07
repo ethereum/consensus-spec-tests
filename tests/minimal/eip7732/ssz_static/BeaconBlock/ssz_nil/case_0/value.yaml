@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:20d657f4c9f625e98f676bd9fa12cbed56ad266cc42d76b7dbd1522429774ce6
-size 1982
+slot: 12730094329820523938
+proposer_index: 15246407836278909283
+parent_root: '0x4d029295122dba5ac925480cb2f5c35183d30241638bbac1c8a9fee75692a49d'
+state_root: '0xb3411e00954104c87cd9020d31e1caa93e44e8cb473aa03697d65058ce36a804'
+body:
+  randao_reveal: '0x9819832e95b903987755476001ffcdf00ba7b46c14c640ec3b53f26f1f23d9b006e2c6cae720158b651a7a483c8e95640e8e0da1026305719c32459e1aa941f38648e4c6ff9b8443c30cca5f2431fd95351699a6983e880bee87712604fa3dce'
+  eth1_data:
+    deposit_root: '0xa1b928675a7f37be58864e47b5e736ad356aab45dd38330a7e230ae165cf7a06'
+    deposit_count: 11264707960308306287
+    block_hash: '0xab2e6cd4da752ad0c700f69c8b9ef592851e54d052145c86c5490ac6538e7a24'
+  graffiti: '0xebf5202718ad73b864fbe1c3cd0c21eaaaa61638bac81da3696c5eb88a1bec8e'
+  proposer_slashings: []
+  attester_slashings: []
+  attestations: []
+  deposits: []
+  voluntary_exits: []
+  sync_aggregate:
+    sync_committee_bits: '0x8cb27296'
+    sync_committee_signature: '0xf01af4057c609e7615c2f951f30da48bc646337df3952caa7de4dcf85a3985c6590c53b41afd6762a44ad11697290689585ef59f01a329916c62b3417e1b8215d6c350e5181dcff447b72252a2c99b03a39c4e335b1ccfbf1229ecf3edd63a67'
+  bls_to_execution_changes: []
+  signed_execution_payload_header:
+    message:
+      parent_block_hash: '0x478fbc3f0e28cb0ff8ac34bcba30929975a2a7ac74fe09f3330a491d43edee4d'
+      parent_block_root: '0x07603d83ff072a75f77bbe6784a39117d2b1ff57073553b33ae6a414f3bd6df5'
+      block_hash: '0x317bd4ba51e5701b3ad6ae7afdea3f59ff91375c2ba2e3baf43b19d7caf60448'
+      gas_limit: 7431123750786321292
+      builder_index: 12981084439097751379
+      slot: 3834741811744154172
+      value: 17165078569746607865
+      blob_kzg_commitments_root: '0xeaef63ff1c5427349452f739d3d55519e30a27398356e05a6691f0e72c5d0126'
+    signature: '0xf88f150466a8413da002e6dff319f728c35292c58f4011d0c2cd0716272fa729c93090dd7a530cdd6e7e0d37cc12b90d655ad8924a8bc9fc80308e889dba6321b16f19a22cd5019b87ff68dfb25d19650853671d64ebbe06341c3e1cccef3193'
+  payload_attestations: []

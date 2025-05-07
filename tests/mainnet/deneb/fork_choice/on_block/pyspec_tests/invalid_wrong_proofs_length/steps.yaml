@@ -1,3 +1,30 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:aee46db5be6928291f3ec629be15af211165ced918cc14a4c308a142eddb30bd
-size 1148
+- {tick: 0}
+- checks:
+    time: 0
+    head:
+      slot: 0
+      root: '0x58253b48d30df3d3a6975a39ff926d825449d30006e54f4a2de84b515f8f6ef2'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x58253b48d30df3d3a6975a39ff926d825449d30006e54f4a2de84b515f8f6ef2'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x58253b48d30df3d3a6975a39ff926d825449d30006e54f4a2de84b515f8f6ef2'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {tick: 12}
+- checks:
+    time: 12
+    head:
+      slot: 0
+      root: '0x58253b48d30df3d3a6975a39ff926d825449d30006e54f4a2de84b515f8f6ef2'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x58253b48d30df3d3a6975a39ff926d825449d30006e54f4a2de84b515f8f6ef2'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x58253b48d30df3d3a6975a39ff926d825449d30006e54f4a2de84b515f8f6ef2'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- block: block_0xdbf41834dd97de82f18c42dd02faa55958c39100fbf6533f7ff28e5eec7cee76
+  blobs: blobs_0x5dc5623b06cff1642b5d2556a674e82901e9d8277a7818fbfe234bef2c1243c5
+  proofs: []
+  valid: false

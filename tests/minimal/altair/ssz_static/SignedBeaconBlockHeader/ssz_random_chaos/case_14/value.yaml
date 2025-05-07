@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ffad91267c964c9525be5fb1c8818274694bf905bf20173a8225ce99eb9141e9
-size 534
+message:
+  slot: 17416385656684521082
+  proposer_index: 13555671090992572797
+  parent_root: '0x24c7000ca9231794d777990a09f6aaef8334dbf142992cb0c4997a9e2318d61d'
+  state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

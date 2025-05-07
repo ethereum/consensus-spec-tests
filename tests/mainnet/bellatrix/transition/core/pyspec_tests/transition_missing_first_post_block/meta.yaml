@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a03c70677114fd3ac0a0dfa07ef3fbac63fc97e396ac6f82691cec05ae4b25a2
-size 72
+{post_fork: bellatrix, fork_epoch: 2, blocks_count: 95, fork_block: 62}

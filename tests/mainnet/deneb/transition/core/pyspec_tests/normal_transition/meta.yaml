@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c6522df05587e156285bf2b576c0c94f7eb2bf9fd42d7eecf600426ed5fc717a
-size 68
+{post_fork: deneb, fork_epoch: 2, blocks_count: 96, fork_block: 62}

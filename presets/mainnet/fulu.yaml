@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6a5174b07cbd1f8b6119695d32def5fb2a642af41398c3bf5e3519c109c2e22c
-size 340
+# Mainnet preset - Fulu
+
+# Networking
+# ---------------------------------------------------------------
+# floorlog2(get_generalized_index(BeaconBlockBody, 'blob_kzg_commitments') (= 4)
+KZG_COMMITMENTS_INCLUSION_PROOF_DEPTH: 4
+
+# Blob
+# ---------------------------------------------------------------
+# 2**6` (= 64)
+FIELD_ELEMENTS_PER_CELL: 64
+# 2**0 * FIELD_ELEMENTS_PER_BLOB (= 8,192)
+FIELD_ELEMENTS_PER_EXT_BLOB: 8192

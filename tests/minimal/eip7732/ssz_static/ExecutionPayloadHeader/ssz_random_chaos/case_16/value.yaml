@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8663e3515f2cac3d30512e228b79b78ff365d3f3be7a2f63e03a147ebfbfc433
-size 435
+parent_block_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+parent_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+block_hash: '0x057acb817e04ee7cd62b543ab03402dd179c91cadf71a9f4f189f57b4ed58d1c'
+gas_limit: 3945128259819212118
+builder_index: 526573972324380534
+slot: 0
+value: 0
+blob_kzg_commitments_root: '0x1792a256fe91f1fecb3c00fce74989d4e7694dda79f8077ff2fca907592bcc13'

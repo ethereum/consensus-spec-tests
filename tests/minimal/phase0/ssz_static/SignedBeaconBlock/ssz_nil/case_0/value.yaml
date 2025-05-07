@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:93d61987145f0f66d0f5eada076c5fc15e160f4ee77691206b2f1a4f737e874e
-size 1105
+message:
+  slot: 785785656849671181
+  proposer_index: 4635257835031791712
+  parent_root: '0x1862515b2610c94b2134ae28d8698c2d1114961d2d0ad8af5099a0eee91d0862'
+  state_root: '0xf1f96c3745067119534b381e372dc01d2ae3ad1ff4444334049e4ca72b4e1ff8'
+  body:
+    randao_reveal: '0x1600f98497d81f212bf87cd422e0b6f21f25afd05ccd649f5b13b9734870b72832f30a7f1ce98f34ef852011990f032495945c23fbc51896d035afaa70c658c6d490315c0d3eb6378d66fafa8ff74f5a0f20895ddad3a23b63fcfaee06dbf590'
+    eth1_data:
+      deposit_root: '0xcc40e8aa7cbc3a07da234a1a6f5d26db33208f2c8030f8f415a8aed32fb07b37'
+      deposit_count: 11261829167278495358
+      block_hash: '0x097bb54f52b43b15376497ed41ed6c4b1fa2b2c0eeabe06ec33f954008c511e6'
+    graffiti: '0xfb34bf96e4ccfbb1d11b524a8a4798a9b2f8f5982c6ebbcbebb6e56571d04ff5'
+    proposer_slashings: []
+    attester_slashings: []
+    attestations: []
+    deposits: []
+    voluntary_exits: []
+signature: '0xaa530462dd1cf81a52d20fdbaaa4aac2406a7f0c09b6a3b689607180442e6cd15f926bb2eae1674e867f94f215d5f522e8318ebcb7e78c437f74092840bc9d81c0d6deb1e677c35730d03e59ebbfec0ccb8d3036b8ac12b21b9ecf295c92024a'

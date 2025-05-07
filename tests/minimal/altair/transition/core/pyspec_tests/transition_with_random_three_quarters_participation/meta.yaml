@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:653b3ad16c70321d12fc5c643079774014ac14160e3bb724cabb68aad1da0035
-size 69
+{post_fork: altair, fork_epoch: 3, blocks_count: 49, fork_block: 15}

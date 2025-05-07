@@ -1,3 +1,34 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1b13b57371aeb39c9bb2a21de905b26888933f9860ef63aa245ecb3c49de3419
-size 2263
+message:
+  slot: 17636063265173165509
+  proposer_index: 12590146650281784700
+  parent_root: '0x500af3582789aa4208798dbd42a7ede7a3514eed0be6b52cce9ffc78468081c2'
+  state_root: '0xbbe1205b6de236ffd3d0fd7065483a4366f058c6f3347f205b071d927730d10a'
+  body:
+    randao_reveal: '0x265201ae139a36784b66696e31b8cda0f7e2577fb301cf5c7d80ad983f1791ab29e0a6df89a6848afe93eca337488905ecd515058c26694b8a9e336551c0bf721e7c73c756f91fb99b31e848a07856829517464f995c88bc2f9fd4fa10966533'
+    eth1_data:
+      deposit_root: '0x40dac4ecb5aac086770a5ac6ff8946953d10eaf3f2539529fc2e96313fed08b8'
+      deposit_count: 9806777260129686084
+      block_hash: '0x4c6f4c0fe590f7a2e1f27d18040134ed7236d93011e0ae00fef52678f6e66439'
+    graffiti: '0x0b40d7bddbb3ae60359485fafc80cd80a814bffe63284058b325cefa99d54758'
+    proposer_slashings: []
+    attester_slashings: []
+    attestations: []
+    deposits: []
+    voluntary_exits: []
+    sync_aggregate:
+      sync_committee_bits: '0xe9c0b60c'
+      sync_committee_signature: '0xf4b3431bebfa71a8cf6cddd521cd7902a609a5118efc991c8fb61f88029da63dbcf4e2294a8f867d8fd71b20a5f9683a71a9a377595e0a7d8d21e4a6bdeae886ba7efc25b6ca4150272b604159d826dec91563c04c6cc490455d2011e33dff67'
+    bls_to_execution_changes: []
+    signed_execution_payload_header:
+      message:
+        parent_block_hash: '0xeebe44daece7b0f19a4997502b507c17bb3cc7ea28ee61b667722dda7c5f5672'
+        parent_block_root: '0x4fe7788cb9b505b50a6d796cf23eb039d8c06a4b4235ecc8eca4907f324084a2'
+        block_hash: '0x30462c47284a5fc826a0173c51837503581444408b4062e5fbeb95cb5f765c50'
+        gas_limit: 16913605956508208457
+        builder_index: 1213972190613182900
+        slot: 11909014346863210562
+        value: 11617482471536664977
+        blob_kzg_commitments_root: '0x365451bb0db3d11a8244ef444d790e04be3dbe3069b16558b969d17813ac8a32'
+      signature: '0x7d86c6295b4ba87eaa5396161d68bb7a3803d7066e0bf6b1c8fdc7403b1ffb511e373dc24d761b9543f59273f0d60f23382e462b9a9d2dd39d0bffa8f3a95cee5184f22331faf34a29c70c2ba70430d6eff47871499c7a48caaf3055151129b6'
+    payload_attestations: []
+signature: '0xa94f0e3028ab9ae35c64f3126c90d237d08184d91a31194aad2a82e2d89b7e8be2595e31b572c92e0bc97b523a72efced8f09728444e7fa2d3b7df789c235ae7cac0735a84c26b3fa27820486cf8a127fed815b519a2c1c740ea572b56230ab3'

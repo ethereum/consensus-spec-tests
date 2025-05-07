@@ -1,3 +1,67 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5cadb3248d13f78ee2d3fb25a83bdaab7bccfa5bc22460b579ef4e4833c12b60
-size 5113
+attested_header:
+  beacon:
+    slot: 13382531245530702994
+    proposer_index: 0
+    parent_root: '0x6e7866fb48d99372da18abbdc97117c19f5d4c1e08f2c88c98b89bb94997f0f0'
+    state_root: '0x1c24856b00342593af251ed27092f7fc279ef1b322414d6a4992e823770f5d08'
+    body_root: '0x1b856c5601928e849d389851a34caf0db292329b88632eff3b4e6915c6e06228'
+  execution:
+    parent_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    fee_recipient: '0x2cbfc12725f17025b0aa3083cbaf517dda0547c7'
+    state_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    receipts_root: '0xdbc4a061e9252384116a2c20b95a6439ef3922110bb0846bc536fb11c4e543ee'
+    logs_bloom: '0x4d6f7a9c0d063582d1076dbf394be3f8da9a7b971f6867c2feb99842f42c73edfb25e8a94051fb5ebada08b27527721180337a5cf6292153bfd70d7ffed06b7d7d82647a88c9b183235145c37652ee0486b6cb35ddf3fcdbd87be99e32f85b626ee1e30a8d0578c682ff93626813aeb6ab2dd6d3c92f823e17defaddfff30c00cc4d6fb77f48c70aad380a412856dd20cec45080a59fbe9d5353740e7d5d022bfa4ee02145e47f536f5dc369136a8eb2b291de45516549ff9ed81bac6f2005d9a524a838415b84d3a36960ab273cf4828db6560e819aea15708390a544b3ee547130a7504d82fb84078919555e9ddd5431d3df4ce0a14bd4f43acc4ef7b4e355'
+    prev_randao: '0x58c7bc1361dbfc0a4941897b05d62ce2b35fb481c6930d1546781fb31eafcaf2'
+    block_number: 14050834427615329593
+    gas_limit: 1524763801833164906
+    gas_used: 3646275612444105578
+    timestamp: 4848275487096484988
+    extra_data: '0xc9bcf0c729ab526a915f1e2868d3e3e167cd4e8de0493671aeabd7d43ed3e99d'
+    base_fee_per_gas: '67167623213369733536677096239684121211374570458464187763477502622830595847431'
+    block_hash: '0xce56d8bdffd17083cb0dd84553ab712a995412e35ccf9ae129d7bb501e4c8740'
+    transactions_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    withdrawals_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  execution_branch:
+  - '0x211855121f1b07a84320c637b34abaa63ee0359692932cad523555fd14cfdf21'
+  - '0x6c490e69b2a34622517091c30674b8014ca252979a0221eb6a909fcb0fa508e0'
+  - '0x14c67e71f43a77fe067fdcb0a4b4abbd1fde0f1fcda721cab0fbb3d8c279602f'
+  - '0x7381bce0a6f66c524b8fbeb9bc5283310e073bdd2456af52d9226ac2640b87ac'
+finalized_header:
+  beacon:
+    slot: 17308455247583541667
+    proposer_index: 5754486745481543408
+    parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    state_root: '0x0a80e18a130b69e59cee28d0954f48c500c3efb906fdcb4294ee80f2282328c0'
+    body_root: '0x529dfbf4843d6eb9eb9e25d00b7817de85ac864f6823bae5e5a1b6b613d08375'
+  execution:
+    parent_hash: '0x1a3144b23659338c6c24c2423e02d6b0af8cdaca4d469a5185d5a03c8d097dd6'
+    fee_recipient: '0x3892228338a12c37df77f2828c1af716f8485d69'
+    state_root: '0x7280a6bb3227d98dd3fe7006676673fec6bb5a76e38f63ca936f894b813c8202'
+    receipts_root: '0xd22c2adca8a840de5c9959cbf1e2d72864bf8dcaf7a5fb36f94c5c72b9fd0542'
+    logs_bloom: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    prev_randao: '0xe02bab3ed8599e0836ae527e8888f506d27b463054aaf894285dcb634a1d0646'
+    block_number: 4164713483092590974
+    gas_limit: 24615038097841620
+    gas_used: 18446744073709551615
+    timestamp: 18446744073709551615
+    extra_data: '0xff'
+    base_fee_per_gas: '112721730210273496984561515620380703235663355314078296263822469460187274693979'
+    block_hash: '0x33f0afad1227c779784961ca14d37487a93a1d241e7173c8dc111cefe9491566'
+    transactions_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    withdrawals_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  execution_branch:
+  - '0xc4f495f9a244aaa27e79970c45e65fc1b4eff7a0f267029956004a1d41f4aa85'
+  - '0x9f708716d8b3c5c04e629b3de24eea2ab2ef3af0ae61c4986653d3b459054d87'
+  - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - '0x6359ee3c84232812a5420388d5a21f66dcff9054ff4c4e345139ce28509a919b'
+finality_branch:
+- '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+- '0x584e84da7f2f20bbbf07d43a0c71ad048190f9c1cb1e600b082986581c2cf31b'
+- '0x725234bf4505b83d537d5fceb8d84df74653f2d3c3d921cb7b67eb27bd26c655'
+- '0x0634f4b667bd073e6e79e6cc87b7441711d40d5cb659e3b34e1a15fc6f514d2f'
+- '0x1ce247c14011de3e751c6f60dcda03732bb1597a2a3988aec425c87adfc32c8b'
+- '0x9f088ac8ac9712eec027d4f76c227e20c6356802ea3d918307de00b3983a7315'
+sync_aggregate:
+  sync_committee_bits: '0xc3c16f14'
+  sync_committee_signature: '0xc0b0098223d43160eee32f3ef9cba372f91bb76b1ef251130e5c863a3883ef0cb0c20a09eff1a57e0d19b62db0e46e284d1b3bceb81ef9b690ac7b005390022f38c16d65ad590c29291c20e28e2627918b48204c3993cbb77973947bf2678a2d'
+signature_slot: 4790890683104499851

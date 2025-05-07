@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b54097e70e6ffa3cc7d0e3dcfaedde5e8429c28258c5c255fbf27bb8cca0eae0
-size 1190
+message:
+  aggregator_index: 18446744073709551615
+  aggregate:
+    aggregation_bits: '0x01'
+    data:
+      slot: 2547850525070466317
+      index: 3940637565822973852
+      beacon_block_root: '0xe31a4c991f7010463fd7d585da3dbb34d905a931c9c9264e779ae8093cc425c8'
+      source:
+        epoch: 14120495602271639843
+        root: '0xb040aecb10484d5e2885bcdad6eb0e86dfc3203b781a66e0642f36055abbd792'
+      target:
+        epoch: 15484307620773555035
+        root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    signature: '0x2e6271f74f9360f224efd6ca51034e41b3d3186f6db805f4377ff061500e7665eb1cb20f0a4bfc6efbc34c863d947cd6ecb188012b0b65fbd4cac1c39234ad46aa2144b88361f35a1ebb545a10da2e2ac44876b50d0c03d46837b63a235379d2'
+    committee_bits: '0x00'
+  selection_proof: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+signature: '0x217bd48c44ddbff878b7a0377370564381b14b8e8a5a9bfdb91722f2ba21dfa7bc9651f09f85429974e92b3d751ad8cc9ddb357d5367ba01fa42986c0df17e0c9389da177bcfd3e06d4f290615d52b89135d9cd1c382b5289312980e0d00fdbf'

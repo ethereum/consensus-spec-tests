@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1ecbf04307fdfd5f42d91050fe4d7993e84fb3b118cb96f3904d97e5f7e51d55
-size 628
+aggregator_index: 12717355683681677921
+contribution:
+  slot: 0
+  beacon_block_root: '0x34a8d96341854037d18b74469e0dc99cda2a63cc1e526b1baf7a6c47055a45a2'
+  subcommittee_index: 0
+  aggregation_bits: '0x23'
+  signature: '0x8cad858aae250095b22320e4b4c957c98a070ef9d9a575bf3223e69958ec96e51f59599f52762ff48db383a63f65d607cfd278e6b36d043661d906cc41ba44f60ae89836cd1716729e8f455e78d9b88818e5a6086aa323dcb6dbdb2a841da1b8'
+selection_proof: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

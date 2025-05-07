@@ -1,3 +1,108 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0608e06c8840913ed66a3faa7dba85f9ddd2a6a40a6dd614290b9ae19aec8880
-size 4171
+- {tick: 0}
+- checks:
+    time: 0
+    head:
+      slot: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {tick: 6}
+- checks:
+    time: 6
+    head:
+      slot: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0xcc32911aa541e9edc858bc9e62dfeb34bff074b4012c79e71efc8b8367228796,
+  valid: true}
+- checks:
+    time: 6
+    head:
+      slot: 1
+      root: '0xd8073ffdd11c559cb3d12141c5a5253b92dcf6d22deb5316704dba72313e1380'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    proposer_boost_root: '0xd8073ffdd11c559cb3d12141c5a5253b92dcf6d22deb5316704dba72313e1380'
+- {tick: 18}
+- checks:
+    time: 18
+    head:
+      slot: 1
+      root: '0xd8073ffdd11c559cb3d12141c5a5253b92dcf6d22deb5316704dba72313e1380'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0x18f1c29f2d3c5216e2889204179c2d5fd9975186996bcb54f3b6a08c6d4dff45,
+  valid: true}
+- checks:
+    time: 18
+    head:
+      slot: 3
+      root: '0x72c539f41a700f2dc81199693fa9c1d3bd32a2c10cf254e515d2437629118dc2'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    proposer_boost_root: '0x72c539f41a700f2dc81199693fa9c1d3bd32a2c10cf254e515d2437629118dc2'
+- {block: block_0x6a56de671a0c45f6a075c0a89c76604e0272078c13697777940e7678fcbe8481,
+  valid: true}
+- checks:
+    time: 18
+    head:
+      slot: 3
+      root: '0x72c539f41a700f2dc81199693fa9c1d3bd32a2c10cf254e515d2437629118dc2'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    proposer_boost_root: '0x72c539f41a700f2dc81199693fa9c1d3bd32a2c10cf254e515d2437629118dc2'
+- {tick: 24}
+- checks:
+    time: 24
+    head:
+      slot: 2
+      root: '0xea3c8ed996989515ff6aec481cafee5e915f3e0752d519c62279e3eef324e08c'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0xca72051882c26b71af0cc957bb0340608685d7c88e73e582a47c995ddcd1a8df,
+  valid: true}
+- checks:
+    time: 24
+    head:
+      slot: 4
+      root: '0xf3b481bf14a230cdca36157dd4627fd9dcc950d82ce81f101e1ded3280b82230'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x5d73a3ff836ece90d81ab395b970c56ec848e5d9fc6438d801aca923edf74c7c'
+    proposer_boost_root: '0xf3b481bf14a230cdca36157dd4627fd9dcc950d82ce81f101e1ded3280b82230'

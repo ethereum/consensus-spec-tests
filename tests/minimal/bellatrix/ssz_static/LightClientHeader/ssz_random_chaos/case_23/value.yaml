@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4b76532afc14897bdfc1d48bcc6ae3214b3cb806c94c9e9d3770bf46802fbfb4
-size 322
+beacon:
+  slot: 235072458521816363
+  proposer_index: 8625829347997702688
+  parent_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+  state_root: '0xfe1fd3a303b7657e6d1ad3e4eed45a723e384db9e84fd812cd30311ea7a1f88a'
+  body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

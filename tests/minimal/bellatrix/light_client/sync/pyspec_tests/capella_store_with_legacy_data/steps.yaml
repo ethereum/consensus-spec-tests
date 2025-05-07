@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e93eab3c4ceb2398e0c08b990e8f93f07da1520ce89ad84ee251e64ba0ede403
-size 626
+- process_update:
+    update_fork_digest: '0x790e5b44'
+    update: update_0x97ca03096046e39d5afbf8e31b6a3a0c11f1b5d51037a2e1670d21c307d30703_sf
+    current_slot: 18
+    checks:
+      finalized_header:
+        slot: 16
+        beacon_root: '0xb155324a9a020a1d2f4adb54694277c5536f04e1fe35edac2f7edfb1310f201d'
+        execution_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      optimistic_header:
+        slot: 17
+        beacon_root: '0x97ca03096046e39d5afbf8e31b6a3a0c11f1b5d51037a2e1670d21c307d30703'
+        execution_root: '0x0000000000000000000000000000000000000000000000000000000000000000'

@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fd9a3d73500cede1bc01e63131220c8cc6a7ca415f24edf00b098215b7644790
-size 262
+block_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+parent_hash: '0xd2e833cd0b8d5801592a20ec9dfbd34f06bd6cdab50c57a4f35338aa4424ad63'
+total_difficulty: '105524894399025542430493045619343613174532099599462385633740388902673739462788'

@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a276b5ffca28c49ca7eb6bc8b8e2f29b70be00dc7795a72b19d0f607f49e2a5
-size 3141
+attested_header:
+  beacon:
+    slot: 9297741773674826720
+    proposer_index: 18446744073709551615
+    parent_root: '0xea6010243e7dde552e8a8ff031c53febcc4637a42694f00e66910d91e8d47450'
+    state_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    body_root: '0xb8d48b530a654f5b31676314bd9eeea4394c81d5f4f8dec20e47cef35666d939'
+  execution:
+    parent_block_hash: '0xd52e805de21516bc3ec10253101c1e26ddf6e5a8b27335bb9739764fe9499d58'
+    parent_block_root: '0x9b747e39e19b51e15f03fa5b9e921c7ca8228e70dcea3f2d8ca4e020bab1bb01'
+    block_hash: '0x80892ba40abb3f96d7067e581742476563193aa514f5fa2acb94d010cd3a5473'
+    gas_limit: 0
+    builder_index: 18446744073709551615
+    slot: 0
+    value: 10343748403299942386
+    blob_kzg_commitments_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  execution_branch:
+  - '0xf1145d716eff0b06ac08e790cc6f3e6c38c6009a64915babf1aa39ed9a4360c3'
+  - '0x83b615c424b85eb2b87314dafd91d0e8526204c9c3585c2e8235884a7dd7b036'
+  - '0x3cfee8fc3816c9d62c3ab983768b030a4f1e7680db0ffffac962842a9531fc81'
+  - '0x260aef2ce8b33782a89b9d05c7f12d5f101a61171a142d34d62f9c7beda002b7'
+finalized_header:
+  beacon:
+    slot: 6144550253821011652
+    proposer_index: 9143269933546761507
+    parent_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    state_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    body_root: '0x6c082cee81615301b343cbeea743d0ff528a0a4dc27464a92462712dad7379f6'
+  execution:
+    parent_block_hash: '0x7c182a84869b25d3e03b6b7ba871a71fbd13a8310430a24a8440f9ae6041709b'
+    parent_block_root: '0xcecbbd27f12cd60a2181e73e93f116df878d20bd0c080c412f9ecb62bfbe768e'
+    block_hash: '0xe1818149de5841e9f0fcdeeaa34a479ba0a428c16858c4a47a06dda200374dba'
+    gas_limit: 15053683984020611323
+    builder_index: 18446744073709551615
+    slot: 8748725664565375885
+    value: 8999702246825976051
+    blob_kzg_commitments_root: '0x89d33c9595163ddcb3584bd3584eb644a0695530b1071ec75d5152aab50df8f8'
+  execution_branch:
+  - '0xbceb85e0b206f0230bff2d48be5f2737fba671f8466f65a14bcafa94fbf1d476'
+  - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+finality_branch:
+- '0xc6c905005798ea500c65ac5b5711b904fb6edcf57cace07a1732ce932595dafd'
+- '0x8d4df820daf4d6ebf13c71f2c06da95e4ebeaf2603c46ad26639c3638ed7f503'
+- '0x8f01f6ad7cc83c69c4d04686da58fb885ded2440c090605a10753f7ceba108b3'
+- '0xf32ca35ef81782a33efdeb640389e65e278191a2a6a494d46a711583ab6b55a6'
+- '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+- '0x41cf753a352fee0144ff0c0af5cb9269df8174cb88ae377650f42f85c7aa7b28'
+- '0x270d273ef3b0bcb6221fb9156c44ecfa617a8524a5630433579885ee426a6908'
+sync_aggregate:
+  sync_committee_bits: '0x25dd56ae'
+  sync_committee_signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+signature_slot: 0

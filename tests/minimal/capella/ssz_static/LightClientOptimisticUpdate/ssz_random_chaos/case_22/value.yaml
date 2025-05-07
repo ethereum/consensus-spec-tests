@@ -1,3 +1,32 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ac630fc326261132646a1999fdf8c57cd87fbffd2994ba5e1d058179bce17c62
-size 2358
+attested_header:
+  beacon:
+    slot: 4343445325861876036
+    proposer_index: 18446744073709551615
+    parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    state_root: '0xda0eb4b8411773daadccbf953e372a0b875b4460560d6c17f5d7d1c665e73c5c'
+    body_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+  execution:
+    parent_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    fee_recipient: '0x6e0d9862b7c6ade8c72466902ca7e5350b4057df'
+    state_root: '0xb697742e24bc33a0586df6d952508d95d0c81b274137873fd7bb1b221fa7a3c6'
+    receipts_root: '0xd5bc7f757fdd3d466fac0db732ea2eb8b595c7efc81a63016f3dd1fec88c769e'
+    logs_bloom: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    prev_randao: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    block_number: 12433530276221931325
+    gas_limit: 13302315250281506543
+    gas_used: 0
+    timestamp: 7735194536530022052
+    extra_data: '0xff'
+    base_fee_per_gas: '0'
+    block_hash: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    transactions_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    withdrawals_root: '0x2d1213c30dd66f5b4701c665762fee576622a28ebc364e371fff6976fbc88e0c'
+  execution_branch:
+  - '0x7ae607d1fabefc0c092a06481f27f27a3c0d5f3d781d9c9d426ea9300d089af1'
+  - '0x0000000000000000000000000000000000000000000000000000000000000000'
+  - '0x0000000000000000000000000000000000000000000000000000000000000000'
+  - '0xaaacc57a11da3c5039ad6713348b8013eb109277f175d1f4c138f17c0e1b85e6'
+sync_aggregate:
+  sync_committee_bits: '0x909ec7c5'
+  sync_committee_signature: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+signature_slot: 0

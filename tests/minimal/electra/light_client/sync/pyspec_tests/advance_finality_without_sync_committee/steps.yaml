@@ -1,3 +1,65 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:043fea0cbb57580e361dbff213c4ac211af1143f3e43fde7813952b3533026f4
-size 3130
+- process_update:
+    update_fork_digest: '0x9acb230d'
+    update: update_0xae7f28a8ebba68883b58b361e7c245343d15a7c89d5f9c7b91c05161c6d2c313_sf
+    current_slot: 41
+    checks:
+      finalized_header:
+        slot: 24
+        beacon_root: '0x2d431c9c92c744674a6211083f8ecc0a6f2a5d178496e1f452e34c231cd44f1d'
+        execution_root: '0x58f195a6f211122241035a3142f7dd13f4c2885918006655cd95d3619e58d231'
+      optimistic_header:
+        slot: 40
+        beacon_root: '0xae7f28a8ebba68883b58b361e7c245343d15a7c89d5f9c7b91c05161c6d2c313'
+        execution_root: '0x4134b47a7e19cfaf522fb8743aede3382ea37738ccb1d38186d74f619854dc6e'
+- process_update:
+    update_fork_digest: '0x9acb230d'
+    update: update_0x5269f4bfcf371ff3ae00122c5bdfa942fdb95589cefbc87b637dbcc8348d00e2_xf
+    current_slot: 89
+    checks:
+      finalized_header:
+        slot: 72
+        beacon_root: '0x5d07d688e033a1afb22c6539d25cda3cc6dec7f92dabddb759e2e23003e3a4ae'
+        execution_root: '0xed39f99d90dcba54cbb32f6df9e47a6170c16d7b760ed1001c3cee300eeeb349'
+      optimistic_header:
+        slot: 88
+        beacon_root: '0x5269f4bfcf371ff3ae00122c5bdfa942fdb95589cefbc87b637dbcc8348d00e2'
+        execution_root: '0xc0c29f9476c8e90d6bd21c16868b2897118af884b65bdf064707c078961a0605'
+- process_update:
+    update_fork_digest: '0x9acb230d'
+    update: update_0x433177a1df71ef863deda30e2dca083e725d6d2eb7a52ea8fcd55b5420656b38_xx
+    current_slot: 97
+    checks:
+      finalized_header:
+        slot: 72
+        beacon_root: '0x5d07d688e033a1afb22c6539d25cda3cc6dec7f92dabddb759e2e23003e3a4ae'
+        execution_root: '0xed39f99d90dcba54cbb32f6df9e47a6170c16d7b760ed1001c3cee300eeeb349'
+      optimistic_header:
+        slot: 96
+        beacon_root: '0x433177a1df71ef863deda30e2dca083e725d6d2eb7a52ea8fcd55b5420656b38'
+        execution_root: '0xe0de92ece1ba7c46c19194c2a05dbde476d65e5638ea63e98378557095931622'
+- process_update:
+    update_fork_digest: '0x9acb230d'
+    update: update_0x433177a1df71ef863deda30e2dca083e725d6d2eb7a52ea8fcd55b5420656b38_xf
+    current_slot: 97
+    checks:
+      finalized_header:
+        slot: 80
+        beacon_root: '0x0c1438b854411480dd84d1f258655386e96ff030dd67877f4b40b35a27d61f71'
+        execution_root: '0xc1d3b3aa541d95fbbf4ba4f1fb96c76da68f3b3f40f87ebebbe559cf9cbb04b4'
+      optimistic_header:
+        slot: 96
+        beacon_root: '0x433177a1df71ef863deda30e2dca083e725d6d2eb7a52ea8fcd55b5420656b38'
+        execution_root: '0xe0de92ece1ba7c46c19194c2a05dbde476d65e5638ea63e98378557095931622'
+- process_update:
+    update_fork_digest: '0x9acb230d'
+    update: update_0x433177a1df71ef863deda30e2dca083e725d6d2eb7a52ea8fcd55b5420656b38_sf
+    current_slot: 97
+    checks:
+      finalized_header:
+        slot: 80
+        beacon_root: '0x0c1438b854411480dd84d1f258655386e96ff030dd67877f4b40b35a27d61f71'
+        execution_root: '0xc1d3b3aa541d95fbbf4ba4f1fb96c76da68f3b3f40f87ebebbe559cf9cbb04b4'
+      optimistic_header:
+        slot: 96
+        beacon_root: '0x433177a1df71ef863deda30e2dca083e725d6d2eb7a52ea8fcd55b5420656b38'
+        execution_root: '0xe0de92ece1ba7c46c19194c2a05dbde476d65e5638ea63e98378557095931622'

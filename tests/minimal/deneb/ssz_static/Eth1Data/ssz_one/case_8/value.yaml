@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6c925631d7c16f7e6e5e53cd1a49a374ecafa0daa52034436331cfd9612c8546
-size 200
+deposit_root: '0x6f223ee15f34515db2968bb0414c512d43700964dd44d45fa0d805fc293b5693'
+deposit_count: 14919718507141972217
+block_hash: '0xfc4170195f1da3982fa6bfeff293eb4dfa9c60849bacee5cf27a38dfa1a7d37c'

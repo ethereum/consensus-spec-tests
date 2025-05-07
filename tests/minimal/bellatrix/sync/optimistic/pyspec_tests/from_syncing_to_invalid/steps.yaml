@@ -1,3 +1,92 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:cbdc4a8ab86a9d3322ae1f462e8bc7c990aead3ee90efe654ccf31da63ff3446
-size 3902
+- {tick: 7728}
+- checks:
+    time: 7728
+    head:
+      slot: 0
+      root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- block_hash: '0x6a66a1f385664767ff5f0b7c6a1bacf14eb643f70ebc205aa85c7eae07011f11'
+  payload_status:
+    status: VALID
+    latest_valid_hash: '0x6a66a1f385664767ff5f0b7c6a1bacf14eb643f70ebc205aa85c7eae07011f11'
+    validation_error: null
+- {block: block_0x1b3a1c3373c63a43bb4bd4a9b0d9e1c5ffd93a2149df00a91c688504139c8719,
+  valid: true}
+- checks:
+    head:
+      slot: 9
+      root: '0xe5177eaeb2ab02baed986a20ed5decc9e0d60e7317cbf20e8503cd43d6beed88'
+- block_hash: '0xd405904c872ca7884f5521018b6c4ee4f7fbae57afd0ab86b3e068906788a7f9'
+  payload_status:
+    status: VALID
+    latest_valid_hash: '0xd405904c872ca7884f5521018b6c4ee4f7fbae57afd0ab86b3e068906788a7f9'
+    validation_error: null
+- {block: block_0x39499bbfcd80173ec750c452aa0997a5ba8fc57e91d9a9cf19d86c664418c2c4,
+  valid: true}
+- checks:
+    head:
+      slot: 10
+      root: '0xc38a59645037f569e61d96c0226a4028e63e5058e1bc7a726a37730a105d5e7a'
+- block_hash: '0x7a722e5886c3fda30c361a246a8b651450ff5b93cb437dd1bd1b57719f3d2baf'
+  payload_status:
+    status: VALID
+    latest_valid_hash: '0x7a722e5886c3fda30c361a246a8b651450ff5b93cb437dd1bd1b57719f3d2baf'
+    validation_error: null
+- {block: block_0xb86e5145517ec1572f55631d5985b63ed4e445d55859b66d2420da921c3e7792,
+  valid: true}
+- checks:
+    head:
+      slot: 11
+      root: '0x90dc8a8ecc216c87f74efa862919177ac2b21b00b51c49b45fad4b1904e6f065'
+- block_hash: '0xce196f4a0a88efcf9dc145b355c4051787e64f28d8269a6b0ae1fb83e4b47b65'
+  payload_status:
+    status: VALID
+    latest_valid_hash: '0xce196f4a0a88efcf9dc145b355c4051787e64f28d8269a6b0ae1fb83e4b47b65'
+    validation_error: null
+- {block: block_0xa907a1e53b2324dcc7b0c53e656d4b6acc8b7d474f6504050dea8ce0280ff2f1,
+  valid: true}
+- checks:
+    head:
+      slot: 12
+      root: '0x0554b01b747492c31b5dcb5237e2d9e688e0dc1fc4f8113c987591746206d6d6'
+- block_hash: '0xb2ffde06891970bc31f0bed3bed8e7915428f28b54268a93a7bef5d48c9c5aa5'
+  payload_status: {status: SYNCING, latest_valid_hash: null, validation_error: null}
+- {block: block_0xce78da5c8790f74ae19d83fbc883c0a13d30693a789cda7f17630c9be8a1b171,
+  valid: true}
+- checks:
+    head:
+      slot: 12
+      root: '0x0554b01b747492c31b5dcb5237e2d9e688e0dc1fc4f8113c987591746206d6d6'
+- block_hash: '0x8795240d6eccedb3610093b44ad97cac9a864f004becfe2605c40a638e4f7379'
+  payload_status: {status: SYNCING, latest_valid_hash: null, validation_error: null}
+- {block: block_0xc2af22ecce9ee9f2e7c4667ee5d46e584ebd1e009d3457b65e5a3ea5ee4ee54e,
+  valid: true}
+- checks:
+    head:
+      slot: 11
+      root: '0x3818440270b4055f49bd5889ea6c84044fe77fa2fc67fb975d04ebc3f9daa032'
+- block_hash: '0xa4799fcee4241369eb2dafa15f7dc28636dbab2894a88c4c0b5b48db0b14c189'
+  payload_status: {status: SYNCING, latest_valid_hash: null, validation_error: null}
+- {block: block_0xfc8f239f5c82db13cab8f6228a3c55fff29043e4ffaae1d538b72d984ed1be4d,
+  valid: true}
+- checks:
+    head:
+      slot: 12
+      root: '0x5f52f98876c3fca0818fef5c2dd0e6c15f8d45c86b94f6bd6b87f37c21a41de1'
+- block_hash: '0xe0f7d89d5a26460c166936b9bf115aac70488faa0238241c8322401a84e8281a'
+  payload_status:
+    status: INVALID
+    latest_valid_hash: '0x6a66a1f385664767ff5f0b7c6a1bacf14eb643f70ebc205aa85c7eae07011f11'
+    validation_error: invalid
+- {block: block_0x6c7af67767a39171b3da4119934d8b2b026f812b505e6fd9de39a2d9199f53b2,
+  valid: false}
+- checks:
+    head:
+      slot: 12
+      root: '0x0554b01b747492c31b5dcb5237e2d9e688e0dc1fc4f8113c987591746206d6d6'

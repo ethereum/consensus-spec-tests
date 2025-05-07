@@ -1,3 +1,54 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0eb03f7c5c994be123fcbae738063aeebba9c29dd1b13729ce1e0a6956836e70
-size 3102
+attested_header:
+  beacon:
+    slot: 9245445320024511460
+    proposer_index: 5682318484133318058
+    parent_root: '0x4c9c98ddc92e104c3648cf5cd99c98d67ae386d92d8ed97fd8cc64208f0574d8'
+    state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    body_root: '0xb5fbb827ce4a258b74d0970cf88f457db5972fd5042ac655bafc4a0e04b1d019'
+  execution:
+    parent_block_hash: '0xde658d8b18f839746fa2b375f7948fe150d76de2b47be6fe412b0704e0644799'
+    parent_block_root: '0x5472afaf9baa2f9c4e99bfe1f66379def84ea227342c344ced8e41fbb57bcd0a'
+    block_hash: '0x9d2c3e72b39aa2e5cb9602d7dd9190bf9e780c8eaf637b9bd3756d9776f0db5a'
+    gas_limit: 0
+    builder_index: 0
+    slot: 1967030964911260807
+    value: 4016933157389598739
+    blob_kzg_commitments_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  execution_branch:
+  - '0x92134e835c7204636696252c8f62ccb0e13e133f813c9e351e9398585fe38e24'
+  - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  - '0xcbd24bfd59938227c0169dee569194bb2e533da5b7f9b246e99f60d911126b33'
+  - '0x0000000000000000000000000000000000000000000000000000000000000000'
+finalized_header:
+  beacon:
+    slot: 4377673706623135688
+    proposer_index: 18446744073709551615
+    parent_root: '0x319a59a977c8a8fed9675f5e4eced7782d7872cf1b68af2a0303418f75d54e8a'
+    state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    body_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+  execution:
+    parent_block_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+    parent_block_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+    block_hash: '0xc3ef89ceb0239d0a92ed0749e8889a7dfafb804e5601a4a1a469110beea562da'
+    gas_limit: 0
+    builder_index: 0
+    slot: 0
+    value: 4225198721286737330
+    blob_kzg_commitments_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  execution_branch:
+  - '0xdd98650b738277bb0d3e1e5ae8c930e0af9cac83798442110f99dd4489597449'
+  - '0x0000000000000000000000000000000000000000000000000000000000000000'
+  - '0xdddab8accf34252999f9ac9b3ccda8299a2bd2a1661224b8b264c3c91a3e12ea'
+  - '0x4fb519e251d0cc8b07059c353a1a3b72841a5c4676e85e6439ab0065e02416e2'
+finality_branch:
+- '0xf0865f3d5720046fa38db5deffdbbac0ac48873221a91108b4acf6bdf8ae50fa'
+- '0x0000000000000000000000000000000000000000000000000000000000000000'
+- '0x6beea515866a574cdc6409366ea0e686830e423bd98d9b7bfde32a6d8147d837'
+- '0x305a54d00f5faba61a789b538d2b37d99c6b9080d5c7ed79084712628368f5df'
+- '0x5c3dcfce31583d079e11bb8696b67079d263ac53a01d7f79136cf4a07a084a0c'
+- '0xf2d7fe41dd0af249a594a2690a682aefcf652caf32843a5af124f25c9a21cc8a'
+- '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+sync_aggregate:
+  sync_committee_bits: '0x203dcd55'
+  sync_committee_signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+signature_slot: 18446744073709551615

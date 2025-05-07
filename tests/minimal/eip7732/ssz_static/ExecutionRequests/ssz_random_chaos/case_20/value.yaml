@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:73fc4745d0fbe4a84ef26ac8bb492587d7532757b9700de64d79637252b48785
-size 1070
+deposits: []
+withdrawals:
+- source_address: '0x61c75ee657b15ca20ca1fedbcfea2b2bb11b641e'
+  validator_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+  amount: 14640809526131658951
+consolidations: []

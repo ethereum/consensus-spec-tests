@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c0c9e0d0dc6fb0fa35747be90918a31092106832450a1b0091eb8f72bf412abc
-size 124
+current_version: '0xb31dbc48'
+genesis_validators_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

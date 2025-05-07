@@ -1,3 +1,45 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fea6fc6254e2f5fe4a423fdf6532c3c000eee808d3536f9c5b3aafbff941c248
-size 3020
+message:
+  slot: 13413068354586059804
+  proposer_index: 3292485096140855628
+  parent_root: '0x91089667324ff2bda17325a3f653e579290f5e44b65bf0f1cea956250cb62e0c'
+  state_root: '0x518cece7700262508614f7a70d3a8ff75818a3d17ff02ed6c805b038eed282d1'
+  body:
+    randao_reveal: '0x2f3f3ff847b837ae48e4b6582c62f7d8819007d5e5e251f5534e12c2883a610c0be351985048c48f5b04622f1fcdb609b5a583386baba4a6cc56b28565946d1112c57ffe887e3ca20bf0db18fcbd30b443391f19d8cc4ab83a83b3db7941b3f1'
+    eth1_data:
+      deposit_root: '0xfc19c955137efce2bf2d47face2a8382964223b49b2080378ba5e2ba4a0b6cc4'
+      deposit_count: 1035743365169628567
+      block_hash: '0x99fccb8f4f74d08eb4d5cf1718693c2ceac2ee72efb1d4211b7d7c26d2b936cb'
+    graffiti: '0x9b29a585b2b1377606c73b5f3ad92a12c9194db9c3d2fdf6d5e0a827dc69b5e6'
+    proposer_slashings: []
+    attester_slashings: []
+    attestations: []
+    deposits: []
+    voluntary_exits: []
+    sync_aggregate:
+      sync_committee_bits: '0x7ca8e84d'
+      sync_committee_signature: '0x1fbdb886640925834755c81bb97575615ea9ccf357326a3cd152eff199b2fe137c4b491074225bbc0e681f3bfd005b787ed098286b7ae95f915d120c2e1b45f753e83d0b1b2fb4eb074d397c13f959a1203c620f57b184c210605804e2c491b3'
+    execution_payload:
+      parent_hash: '0xc173efd20bb7a7d05637b5067102ea0af082a17403b912519e93f7210366bda1'
+      fee_recipient: '0x846686dd00643b9088837c1e44c4e5acb084d3e3'
+      state_root: '0xe28398a86fdc636988e67f3d121e78821bdc04ba7ecc98c6f253e5ffc1d79288'
+      receipts_root: '0x1bdea3098b52599030aece383f5987f7a06a8a2f50094bfbc41be85651e582fc'
+      logs_bloom: '0xdcc807a1dc22f10d019b766e02a0036a40d40bd9d3094cdc1f88b61d6d3cb2e204192c1fb49f0ceace0a94673e364a94c1e5efb4bcc69f945dae2011b498a6e5eb882bfab4cf7a6dcf06dca72abaa623cd70d7704341d5783435fc1f772fcf511199fd271d3d408bfd2a403b3896fc60651b76278409d1a3a3c1fc4ffb65224976ba31bdbb9afcf5d10964316f4a96d1061d0a73686bbe1f938e0361cdde18408a82686d18f6c8f54e73be56bbddf3c733c431b70695fb74b86b63aa37cbc009294bc2dc55d6e804dd71356b89eddd8d56e9deb766bf92301ee0ebac4ee35f822f1af2e7daaff8bdfabe295fcb4085ef895ee93c46d8c7b48cd02e945f24b172'
+      prev_randao: '0x07e40a3846895513438934f4e433ea6aabd7cfb0670b74d76ae8704ee7f416b7'
+      block_number: 9786716056403318403
+      gas_limit: 3887056961098008386
+      gas_used: 16575363634564896774
+      timestamp: 13176357643227874073
+      extra_data: '0x'
+      base_fee_per_gas: '26846711091056591468871480154602836308536758622100402544703465672523562092537'
+      block_hash: '0x65e82d8839e5a9c8ee694cdced268ded9d505308dfbc67824705d1032ee18f3b'
+      transactions: []
+      withdrawals: []
+      blob_gas_used: 8040772848885083884
+      excess_blob_gas: 17615928636734146676
+    bls_to_execution_changes: []
+    blob_kzg_commitments: []
+    execution_requests:
+      deposits: []
+      withdrawals: []
+      consolidations: []
+signature: '0x94035e302311c0d50eed8a0880e309031818e0a20c3f4702a6de805fe7795a9fb8290e1d548a48cbfa7df378876716bbaa47f1303c29d01541c3f7a5eb363843d86c269493c31832b230944dcd3924b8cbb78644c83c3f6a08a071b42b4f9d1d'

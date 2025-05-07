@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:099f0e6e30be64958c4c4cb7a1380164deb8ae30d9360886bcba5febd80a92f5
-size 257
+sync_committee_bits: '0x728359e2'
+sync_committee_signature: '0x50457d894e0c90121b3e36bd83cf587bec5d2b694dae0bee812f5c417758c10cfc43288fc94f1db92d693a8c291f7fb2d858b7d15e826a752447fa899937caacdd5e70d34ef4e8d7939229956bf02054977abcfe223b704a75310ea2acf6654d'

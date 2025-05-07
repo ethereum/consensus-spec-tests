@@ -1,3 +1,776 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a4bc72e80398db2788442ff1ed3057e308151bec55957e61205c61670f9a0fed
-size 33399
+- new_block:
+    fork_digest: '0x790e5b44'
+    data: block_56_0x10796a577682f4d1e4f0514669c2f1b54692224d05da3a15058445f1577c3145
+- new_head:
+    head_block_root: '0xae3f4fcdcf637a0121f1b291f7d3fedb6294869d4a4b006c3c234eaff05b4293'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_0_0xf2112bb4b81be38ed8f18e96f0cb43be55965bd175a8b461d9f7f3e76b1f5ea3
+      latest_finality_update:
+        fork_digest: '0x790e5b44'
+        data: 
+          finality_update_0_0x0270a010d7b7768f86d14983529c6f57f6f791696c4d5ccb480ec879eaa6d675
+      latest_optimistic_update:
+        fork_digest: '0x790e5b44'
+        data: 
+          optimistic_update_0_0xd426dadfe6ad41cd07f31f961073887a94f795869dc31da57874cb6d68ab4717
+- new_block:
+    fork_digest: '0x790e5b44'
+    data: block_60_0xfd44630987c4bc6531086addd9d7c5056e4e62fd6b982d9d389d88f1d61fadcb
+- new_head:
+    head_block_root: '0xdd4f240b20921576f41c2268ca4f5e7682cdb6bcdb1f269c0903968e59bbd517'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      latest_finality_update:
+        fork_digest: '0x790e5b44'
+        data: 
+          finality_update_56_0xbe1c97fe744ccb9ffe0c82834829b17fdd225de2d2a0849feeae172da4fe47fc
+      latest_optimistic_update:
+        fork_digest: '0x790e5b44'
+        data: 
+          optimistic_update_56_0x91481a39a13e8f87957fb0c8e687bf8021d10eef78e8efef8998198c22a0890c
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_64_0x31251020ee7254e0e609a3f57b6a813ee9b91878c62b8b5d2ee37edf86ab5cb7
+- new_head:
+    head_block_root: '0x9fd116891206d66e048562ac746cb73542440da31409e56cbd1dbe5dcdf2ff8b'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - {period: 1}
+      latest_finality_update:
+        fork_digest: '0x790e5b44'
+        data: 
+          finality_update_60_0x3c66cbafddc2ea3eb9ecbe05ecf2dfc5fa54e7d9f06fdaacd70c7cae111731e4
+      latest_optimistic_update:
+        fork_digest: '0x790e5b44'
+        data: 
+          optimistic_update_60_0xd0c3eee3beb640b6be6a2022108243df976820f23d82b9a9f6ebfd4845277324
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_68_0x7c1ed4bbc0c39a0090228b2fcf8d2fcc3922a85bc9e207b747a47da40ff295a6
+- new_head:
+    head_block_root: '0x835eda6b08f3f718cf0e309196689339f2c93f12dc10249d07cc855e9329c6da'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_64_0x468e7e4d6fc5f7c8d732a12fdddd0c4986dd192665686604073fff245e7708b2
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_64_0x1dc836e84df3bce7ef4e30ae90ddc63376da0726d134a32e35c7fbba5a0191c7
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_64_0x1e6fd6b03f02806094362b1da6b4c245e12a05d8e65df3713d5a441c1251d137
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_72_0x5dd1107bf36603b2a0f58ea795773708abcdce04ab6e3557091b20a197d9c40f
+- new_head:
+    head_block_root: '0x2cba23368ec3bd19e0a2dc89fd317f4c072c5da3be3c0f6ec0722374b92efb18'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_68_0xaec3a198f93b9ca4bcd0b4ccdf77fb86391293829d4561c921a2781148f671e5
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_68_0x644e513b32f11d1c09975f0916f997dcb073027561579dcbae7c337eade55524
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_68_0x53ba7d53c4088d5676204a7a260610c9637ad148fcc8096ba550af3758f182d5
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_76_0xdfa3f91b985bd4cdfc056a5d663af78d01bde406139f21d0a7d32cd6c4cb52ac
+- new_head:
+    head_block_root: '0xec6cdde9c577b823399afc1a45c4a2cbd62ade17584edc4992d9b6f3eabf165d'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_72_0x1532bde6b2114f08652ee142222b79f8a39f15c808d27f32b5a4efbdecdb45de
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_72_0x30eb5f2b30c4328377c234d7c1303507ec3d26b6f34d5db016c782cfcb763097
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_72_0xcbf1d23a6f8c20d0bd43b1074a3ac903e72e5eefd7b5fcff7e645de9a71c7126
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_80_0xb95c547a8083fe0a3ac43f04ff4c9418b23639b52be7e42659bcdd103c93de7a
+- new_head:
+    head_block_root: '0xe7579716046af805c2e6c112695333084449ff4b7282972df1e7dff4c5c9b671'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_76_0x3f38d1456865996e250d44a029f53f46e3bed0a8861c7a8126046d2dcc2d0b48
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_76_0xc0cc0aa17d6828b86dc4aa25f88afa25edb85bf111bff5c525bbf42b7eae666d
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_76_0xc6c97c3c880616866f537e7620c47e90f487e7efdf936ef7c43d227952ddb164
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_84_0x2717bb43eac2580713b3562994ae0e86403aa7f00ce2fd36a290c85318e93824
+- new_head:
+    head_block_root: '0xa4b27d32f46638629edddd0143745b84145261672c45637cb805a9b33237b4fc'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_80_0x4a9612bfed4ca6deaf95cde0a9b5b2b658b63a0359c09a880069a5f4e9fc9f01
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_80_0xa54d16f717738967f5f26426b161300a6c7cbf2275b0768f3b60f4d925d6b326
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_80_0xef6aa97e0f6e2cee718281bce04a24774bdeaf018fca13033553127c5a5ce808
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_88_0x0ff0aee209b0cf510f34d33c0bb7f41b1418f0d9e0e576bb53782cd88465ef25
+- new_head:
+    head_block_root: '0x8d29b16c62d9e20b88644c72c67f3a37968bc943cc2985d66ca734f4d0cf8182'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_84_0x223360eae525e09eacc3f7c12873c2615b32cca7f4f35cb35526048f525126a1
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_84_0xfe19904ccf802b25830578a15541593f5b2d60c5d3130203cd9098e1b8083f0f
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_84_0x630d1bbc2b456eb6c6bd1eed30567e0e9f4105b52429c22257e996fcd21d213d
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_92_0xb0db0cf218574379fce2c0927bdab0b677dbc5f6cd719c0997b7751d225f3b02
+- new_head:
+    head_block_root: '0x3181ae5c1f783b6c8eb4652de4327098158bb996e68dd20063744771d4c42b6b'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_88_0x21028f445b742452020ec279e0d167d88078327673b5634d7a804c40d01916fb
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_88_0xd0b1b030e45ffac325b550e5880b27b4e0dcfc6a262d35cc1944089fe52364fe
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_88_0x7b7bb0cf826ca4019cddd3ed0609bd5269169b5758b454b0889f4fb714506bff
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_96_0x468f32b9c9eee978ec7ec347411bc8a485eeb2499c8a36d2c31a4fa75b50fbd5
+- new_head:
+    head_block_root: '0xfe7c69403d7c47c288545c6aa10c1ae576335838d34cc430df3aa0fe468fd637'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_92_0xded4d9fcb7776fc24b175857414cb976d961460d51928c7dc8adaa221bdaedf7
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_92_0xb87d3f9d597af17ef11b5a2377fd278cc4943907f10c9a0f0c661a1b71fe4eed
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_92_0x7ed267fccbaf6d21b743f427bc063d37ba637d9d3e9985583590d3ae263f946e
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_100_0x493f8523d9ccba0ae5cf44dc34a3013466d2209a53b67df46ff82d9344ba2485
+- new_head:
+    head_block_root: '0x6ccf330072a83ceccead30ae1e7877fcae2710c43b5023bfa0ebea1343409cae'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_96_0x1d571715b688810e99486e6c67b17b8435ac3ab17888b4eb0ed419b5cc701222
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_96_0x82511a959b6ee0bb563fce1fb05202ee6279b2e65ebf069ebd43afd270698a41
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_96_0x5259bc6d3abe5ed7c280246c4fb027e6b65065c6e2e1c5980d9f7bbd7cb62e00
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_104_0xf66eb17a45b35493bc225ac8e9b6e7facce0fec057400c33cdd29d13b949c676
+- new_head:
+    head_block_root: '0x1a89ef9be3628d27baf07ca0d2e6f64ac9aac51b860d76766cddf2bfc7bb2831'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_100_0x2dcddac2f4becdb451f696bd18e47a4aa107f61fbdcf84afaf465a84058d7cb3
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_100_0xf77db23754c498fd4a3ce4c18bf22dbd1bbe79769dba433d0d5fefe28a5ba3de
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_100_0x6bc2a4ac5b476a52012dae3e9e712146855334a51e64196ba4d6f692da0bd03f
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_108_0x10ce35be6e62ae54b7e8de53416a2d64c72a23f59e49f1f75e3248ab85abb80c
+- new_head:
+    head_block_root: '0x9721e4b29c09acacc815deaf7be99ad152768020201622c7e43d0e5eab9fa66e'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_104_0x242147322037f0412c3a60d115c3b8aece880010e5827c176b16b415596e590d
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_104_0x4738f6f8e65f14437de086efac00a7817d09e907854ff019c1dca7138d0796c2
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_104_0x68034aaafcdd9fc45a4ed22b24b3ba20de478c5257c7f214473caacb75c3e14f
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_112_0xa955a52cdeab174b7cca33f4fc2a3a0ff74dd8806e864da6474f59289a7be6b1
+- new_head:
+    head_block_root: '0x79d13a8715f4bd847c16ee4fff7b696f77fed924c62614d2e7029a7a7168bc49'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_108_0xdf7a2a4d86788421aa76922f8d07eb9042f253166ff42bafa800d9d8919f2a97
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_108_0xf0f0a3c5e503c52accdf5cce2970da2d26211e6ccd82d0ac40275ce84d2ce3ce
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_108_0xbac125a9e5b6e90df4b8061df23ca0b8b420d5b29f022cd46d5a4f678a147a6e
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_116_0x437f352592b43bb0e7a8d20e27739a58ab11b2efedcde01a49e624e73a9124a9
+- new_head:
+    head_block_root: '0xe83e5dd0bb41adea2d6e6a2cce4ff7d1fef90955a88d9be99fe9ba8ecc1a0db0'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_112_0x80e7342d5a7137ed2195b792caa011ea3ef4b99a69acb406d36150309a51687d
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_112_0x135fd9c449c4e7d862d2b4e04c86fc45c509e955b8fde1d4bd5af6c6c0cd9cde
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_112_0xa6a30b61c8cba95ae8e77a37c169f4d83fc18ef2244c938671216dc28131ab65
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_120_0x182cbc4216d4b7752788221b14688b965e64640efb84de1efac940d6e2cff2a6
+- new_head:
+    head_block_root: '0xfcd6626d11137f050c24dd3f51b948a8e9d126e25f8efbd5dd5facb32b819904'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_116_0x04e68e0088c2de37851a6c385b8e408dff54c8eadac6447c34561cb60fd97205
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_116_0x2d074f6454993b1e3c0e6b46b888f166712839a356bccb43b0132e3020ac5aee
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_116_0xfd68dcac71e717c73348ba5f4e293f0957ab763ea5c0925a7eb5d13ae3479671
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_124_0x2f60606eb5e61fd2a8c6ff8f4b01e5fef6e4166f23dab2240f819134afa49e27
+- new_head:
+    head_block_root: '0xa67c7b1385095c94e42d01bc87f41423662c193a6c8feb9d102841d83151ccb5'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_120_0x3ce631df6e729ad002260d1f2efc2fca92adf25211f3b2ba10b0f92b47282e5d
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_120_0xe0ea0410a2167e311b1dd74d3099288d74aa7dce42d796e0fa90a5d500605ba4
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_120_0x4d953eaa859e45ce6d6157bf8d4d3518121727b50fa8e1fd903d05e179365699
+- new_block:
+    fork_digest: '0x0cbce901'
+    data: block_128_0xeb2e4d3ff1b3123a1fe3f51ec2d83770475519d74a9ee4d2f370f94dbb8a1760
+- new_head:
+    head_block_root: '0x699e01784961656d5f731e8a8f2e96cfef979488223d2e5a1c307a45b7e9e2e0'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_120_0x3ce631df6e729ad002260d1f2efc2fca92adf25211f3b2ba10b0f92b47282e5d
+      - {period: 2}
+      latest_finality_update:
+        fork_digest: '0x856842be'
+        data: 
+          finality_update_124_0x4757de2bd9ec5c882c4f77947a9d0e6229273eaad15e2168fb45107be47af17c
+      latest_optimistic_update:
+        fork_digest: '0x856842be'
+        data: 
+          optimistic_update_124_0xa875ec957f7a808a46c35e7bb7d62968ed711a2a55fe7eeca7c7d17a579e5ef6
+- new_block:
+    fork_digest: '0x0cbce901'
+    data: block_132_0x6d8b28beb81ba9adae04dd3596fe237579a56711a2ae319d8ac1846343cab548
+- new_head:
+    head_block_root: '0x80954ddef982cba9e3ac693cb350ff653fa5ebe341515abee021a8a9a83816f3'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_120_0x3ce631df6e729ad002260d1f2efc2fca92adf25211f3b2ba10b0f92b47282e5d
+      - period: 2
+        update:
+          fork_digest: '0x0cbce901'
+          data: update_128_0xb0385226d88be9cb7696a1173bee8add9918c29b324f906659251ae3a46619ee
+      latest_finality_update:
+        fork_digest: '0x0cbce901'
+        data: 
+          finality_update_128_0x303dbae9868e636350b538c2bdd97ee466460f5db3bde80b243e2484ac828500
+      latest_optimistic_update:
+        fork_digest: '0x0cbce901'
+        data: 
+          optimistic_update_128_0x750ad45e87bcb4cfb5d828e533bde20b52d033b0b91b2941173991cb4a9e90fc
+- new_block:
+    fork_digest: '0x0cbce901'
+    data: block_136_0xed2559caca2fb6319e537f70992fcb55775d1d8de2f078ef7dc65aa367a92485
+- new_head:
+    head_block_root: '0x84f6587cd49e1f1e850d78bc194ecd719806b0504176e714294ea9f03ff0daf8'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_120_0x3ce631df6e729ad002260d1f2efc2fca92adf25211f3b2ba10b0f92b47282e5d
+      - period: 2
+        update:
+          fork_digest: '0x0cbce901'
+          data: update_132_0xf2764ada6b3ac0e4e58e530de7bb0106bf8c32e4f571302b67d2a823fbfedcac
+      latest_finality_update:
+        fork_digest: '0x0cbce901'
+        data: 
+          finality_update_132_0x943c9e51ac4a6a323c74baddd0a79c128c735c60689e4da6f50daa026f05c52f
+      latest_optimistic_update:
+        fork_digest: '0x0cbce901'
+        data: 
+          optimistic_update_132_0x28d1f955d4d8dd5c4f69113eb6a03fcfe386bc31c116805319cf7fe071107a45
+- new_block:
+    fork_digest: '0x790e5b44'
+    data: block_60_0xf4cff5d1a6701d4fd08263de951813ffc9b3b3c62aa7c220af0f35d904abfc46
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_64_0x3fba4aad124bb1c1e0211e674d0c1cbae8f0d8351dde3e04e13e16c06c805506
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_68_0x110ce23b74cd14d95448e0e48e1610c3ddd5dad51544f19a2f67633ad5d1779f
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_72_0x5e5d7b233f6e43863e5e304a5695ce815e831469f1f0b8c846a7baed1ce6043b
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_76_0xbbaf8fd0132960269384a6dc7140368cba0fc65673120e7aa40c1f342d6f28f8
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_80_0xf38121928b08f38d1ed25209e238e8f0ca7547f8913807e084bb920380274abb
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_84_0x611f24481393bfb44d7a3ef73a4706a1e22bb0330eb9df5c3cccb2566699cb75
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_88_0x1dc82341537c10c651a39e130da5d0bec4b00512d34b0a9b2e38414bf76e385a
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_92_0x978023f5535908eaaad3592790c064c5fdf29407914389f519d4afcd05b89641
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_96_0xf7ab79506d9f91e8cefa9a022644635660cc3f4feff69b18c247583fe269aca5
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_100_0x5d20e2e40ea3614ee04a4522be96916a0196a15ce115af4c0c624b2f93e1233f
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_104_0x3e59edc100a9465527fb75463e4b2189c16eb881c924e64236d09201b674bf0e
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_108_0xc551b4b56d43118196f1396328edfae858ab9911b9ac9632d5aa811edb00fff0
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_112_0xb76540a6197143f3add6529f5b6238ddba0611f8f635d7c3219253b5491efaf8
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_116_0x185fd7d6d26bc2ef1826ba55ebb352afc8e94b07d25dcac92377d889d3876283
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_120_0xbf1f924a3f9eb2e0debbf1d3396991e022ca416241bd3cc52b05e9a431d99bb5
+- new_block:
+    fork_digest: '0x856842be'
+    data: block_124_0x8e47639720f5578178f4ea8670ef895e03c9eaf2d61de427eaba3d163bcadd2e
+- new_block:
+    fork_digest: '0x0cbce901'
+    data: block_128_0x03547f5e14826fec6beb9786866281a0b07c0bade725743dabfca963b066c518
+- new_block:
+    fork_digest: '0x0cbce901'
+    data: block_132_0xfe3f65314e2b5be0bfa289ec7b796eb5cd56a7125b056891d118d9783698079d
+- new_block:
+    fork_digest: '0x0cbce901'
+    data: block_136_0xb2b881237743d009b02c70b7caa2ee33aac4fa6c08a703c9d31c18b172c53e90
+- new_block:
+    fork_digest: '0x0cbce901'
+    data: block_137_0x28b5043af353e75011c76984d80054dd2d28150c7d9b5b7d0682ffdf8a076b9b
+- new_head:
+    head_block_root: '0x078de66818d4bd73ac5eca91168d0d2e6866d3f3f6e42e7847fc1c2583631b8f'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_0_0xf2112bb4b81be38ed8f18e96f0cb43be55965bd175a8b461d9f7f3e76b1f5ea3
+      - {period: 1}
+      - period: 2
+        update:
+          fork_digest: '0x0cbce901'
+          data: update_136_0xe91940fc01924c11671199aa1f195982db34329cea3580d6913d8334a1750e6b
+      latest_finality_update:
+        fork_digest: '0x0cbce901'
+        data: 
+          finality_update_136_0x07ec65304e49b478b4cca1c698cf7a860948287744518842354660cd7785d226
+      latest_optimistic_update:
+        fork_digest: '0x0cbce901'
+        data: 
+          optimistic_update_136_0x780a37b1c964fa6573c9bd4720b17b791033b60860c628406ca3b5264720071e
+- new_block:
+    fork_digest: '0x0cbce901'
+    data: block_138_0x3a4109bf69a5b39729f42fcd0a43231183539add22ef82da77cc8de9b039d366
+- new_head:
+    head_block_root: '0xb8a2056ed298dd01c4f64ee7a5049645f65f52118efe94a9c1a58ad83410dcad'
+    checks:
+      latest_finalized_checkpoint:
+        epoch: 0
+        root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+      bootstraps:
+      - block_root: '0x17d715a37ba2f6a5f76c11ddbfab7a80b9b11af1c2282ba2e14f90fcfcf9c3ef'
+        bootstrap:
+          fork_digest: '0x790e5b44'
+          data: bootstrap_0_0x01d783b53062f1ecb9a843e7b4e0d59a46dac1a9dd0bb4044b03fb83fd39c011
+      best_updates:
+      - period: 0
+        update:
+          fork_digest: '0x790e5b44'
+          data: update_56_0x80324f4fc1856c5c4804f739aa4e6eddf5cc49ddb37a6961d3e49b72c17b77f3
+      - period: 1
+        update:
+          fork_digest: '0x856842be'
+          data: update_120_0x3ce631df6e729ad002260d1f2efc2fca92adf25211f3b2ba10b0f92b47282e5d
+      - period: 2
+        update:
+          fork_digest: '0x0cbce901'
+          data: update_136_0x539830c6f7e1c2ac02cc6fb05534c1ff318f7e3355250be0e7e1c3e16e8424c7
+      latest_finality_update:
+        fork_digest: '0x0cbce901'
+        data: 
+          finality_update_136_0xef15d003537fbb39970e587111a204f741f5f00321e3e5aa939e4999c835572e
+      latest_optimistic_update:
+        fork_digest: '0x0cbce901'
+        data: 
+          optimistic_update_136_0x02b1e2227d773b533f229b36bf5600997b401b9b343a2b808c0a4fcfcc40e608

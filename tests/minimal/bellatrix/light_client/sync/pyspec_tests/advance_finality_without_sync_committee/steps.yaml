@@ -1,3 +1,55 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:1000ab508a15984120dfb0093c1066abe78436a441067c2595bedeea7bbd364a
-size 2200
+- process_update:
+    update_fork_digest: '0x790e5b44'
+    update: update_0x61f77980631d220b78b489ed9bc7cd1beab28c4f02bc5ff01ed94547f849995d_sf
+    current_slot: 41
+    checks:
+      finalized_header:
+        slot: 24
+        beacon_root: '0x00e9a75a36792a0da28b75715752546b2073d0a7b9383c4d89d047066c3a2b40'
+      optimistic_header:
+        slot: 40
+        beacon_root: '0x61f77980631d220b78b489ed9bc7cd1beab28c4f02bc5ff01ed94547f849995d'
+- process_update:
+    update_fork_digest: '0x790e5b44'
+    update: update_0xb627ea588ca866ceb822e2fbf66d032b1daac31baa7e2a2a27b5660592f51047_xf
+    current_slot: 89
+    checks:
+      finalized_header:
+        slot: 72
+        beacon_root: '0xad4b73f31ee44217302d0afc594b267f3f469abeddc08aeafb05aed8c8b926e2'
+      optimistic_header:
+        slot: 88
+        beacon_root: '0xb627ea588ca866ceb822e2fbf66d032b1daac31baa7e2a2a27b5660592f51047'
+- process_update:
+    update_fork_digest: '0x790e5b44'
+    update: update_0x7186268416814c3a92622ec2c1c4a10e72d9a7c0a83f3e175703887fb8b2ddda_xx
+    current_slot: 97
+    checks:
+      finalized_header:
+        slot: 72
+        beacon_root: '0xad4b73f31ee44217302d0afc594b267f3f469abeddc08aeafb05aed8c8b926e2'
+      optimistic_header:
+        slot: 96
+        beacon_root: '0x7186268416814c3a92622ec2c1c4a10e72d9a7c0a83f3e175703887fb8b2ddda'
+- process_update:
+    update_fork_digest: '0x790e5b44'
+    update: update_0x7186268416814c3a92622ec2c1c4a10e72d9a7c0a83f3e175703887fb8b2ddda_xf
+    current_slot: 97
+    checks:
+      finalized_header:
+        slot: 80
+        beacon_root: '0x1fd5f6c64beaa1848d76894f94b8ea791982056189fe489eed232462fd8277a0'
+      optimistic_header:
+        slot: 96
+        beacon_root: '0x7186268416814c3a92622ec2c1c4a10e72d9a7c0a83f3e175703887fb8b2ddda'
+- process_update:
+    update_fork_digest: '0x790e5b44'
+    update: update_0x7186268416814c3a92622ec2c1c4a10e72d9a7c0a83f3e175703887fb8b2ddda_sf
+    current_slot: 97
+    checks:
+      finalized_header:
+        slot: 80
+        beacon_root: '0x1fd5f6c64beaa1848d76894f94b8ea791982056189fe489eed232462fd8277a0'
+      optimistic_header:
+        slot: 96
+        beacon_root: '0x7186268416814c3a92622ec2c1c4a10e72d9a7c0a83f3e175703887fb8b2ddda'

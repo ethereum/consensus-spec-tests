@@ -1,3 +1,104 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5a4ced811ced00fe17fae13e9beefc865b4006a19972a48c8506b33a20b4f725
-size 4023
+- checks:
+    head:
+      slot: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+- {tick: 12}
+- checks:
+    time: 12
+    head:
+      slot: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0xbc5526fd5d242834eb700611a5dfc7216305aa979c1e8a87d7df7490baf35e99,
+  valid: true}
+- checks:
+    time: 12
+    head:
+      slot: 1
+      root: '0xaa5b60211d5acb25ea2a0977361f0e7ab25b2306e7730a163d543ad1ebe5d72e'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    proposer_boost_root: '0xaa5b60211d5acb25ea2a0977361f0e7ab25b2306e7730a163d543ad1ebe5d72e'
+- {tick: 24}
+- checks:
+    time: 24
+    head:
+      slot: 1
+      root: '0xaa5b60211d5acb25ea2a0977361f0e7ab25b2306e7730a163d543ad1ebe5d72e'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0x75fdbd4bbd73c5b182a260e5d7ef09f1789402a569f8b4a511e4a578a47c7daf,
+  valid: true}
+- checks:
+    time: 24
+    head:
+      slot: 2
+      root: '0xfaf82765c2518b23ca448887841fa1cff2e9a9b19531b0f8ca55436f6e58094f'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    proposer_boost_root: '0xfaf82765c2518b23ca448887841fa1cff2e9a9b19531b0f8ca55436f6e58094f'
+- {tick: 36}
+- checks:
+    time: 36
+    head:
+      slot: 2
+      root: '0xfaf82765c2518b23ca448887841fa1cff2e9a9b19531b0f8ca55436f6e58094f'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
+- {block: block_0xf59b74f22b448c79783f3ef51b51680be7642b6120ac197d6b16850fd4d34e9a,
+  valid: true}
+- checks:
+    time: 36
+    head:
+      slot: 3
+      root: '0xef218b33db153a77d8c41447ee84a2d3d0cc2646a4d5cca33e5cc41001266afa'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    proposer_boost_root: '0xef218b33db153a77d8c41447ee84a2d3d0cc2646a4d5cca33e5cc41001266afa'
+- {block: block_0xfe17403946f77b0c1fc89c01d545e2522fdecf0e4c779184dd0731b2d16e7d82,
+  valid: true}
+- checks:
+    time: 36
+    head:
+      slot: 3
+      root: '0xef218b33db153a77d8c41447ee84a2d3d0cc2646a4d5cca33e5cc41001266afa'
+    justified_checkpoint:
+      epoch: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    finalized_checkpoint:
+      epoch: 0
+      root: '0x18fd71193bf7500a5467b8dfe0e45639eee9fb7ff2545e41afd84176e4dd5e5d'
+    proposer_boost_root: '0xef218b33db153a77d8c41447ee84a2d3d0cc2646a4d5cca33e5cc41001266afa'
+- {attestation: attestation_0x921d22100d54962043fb813bf1e9151028b5dcf9a912d5f427572ce4cb3d7faa}
+- checks:
+    head:
+      slot: 1
+      root: '0x45a1358c15a2040b36a2083abf248a1b351b7d5cdb3f6d7364603c2a7b61db60'
