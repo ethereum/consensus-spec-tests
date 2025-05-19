@@ -1,13 +1,3 @@
-committee_index: 0
-attester_index: 8926364588649451707
-data:
-  slot: 0
-  index: 1326940944473461478
-  beacon_block_root: '0xa52fc1b3e488f18400a16befe4d48761fc82ddd7d2ddf067848fd338af6615f9'
-  source:
-    epoch: 16686907904740892257
-    root: '0x06410ad257f7aa97cde1dbe9606f6f6db548a558e829d41def96cf6ca4e74a5f'
-  target:
-    epoch: 16146486157352122872
-    root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-signature: '0x8b3b32d2e48eb119b0a5796de79634bd72c45d89215a4b0c4323243196c9ade6bb723fe95db9dd5cf3e9ce7191ed447ce685a80882b50864eb8259877e1127a480ef8d3068caca9c29637e2065d83b949279605595c88878409c41b755e72301'
+version https://git-lfs.github.com/spec/v1
+oid sha256:056245efca73f667fdd00d60a026e1f09d5c2b964dc5b8cd9c3085d290cf5caa
+size 623

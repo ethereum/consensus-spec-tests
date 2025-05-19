@@ -1,11 +1,3 @@
-randao_reveal: '0xecb0bf3bb39696b01deed3264d029295122dba5ac925480cb2f5c35183d30241638bbac1c8a9fee75692a49db3411e00954104c87cd9020d31e1caa93e44e8cb473aa03697d65058ce36a8049819832e95b903987755476001ffcdf00ba7b46c'
-eth1_data:
-  deposit_root: '0x14c640ec3b53f26f1f23d9b006e2c6cae720158b651a7a483c8e95640e8e0da1'
-  deposit_count: 7170141214286440171
-  block_hash: '0x719c32459e1aa941f38648e4c6ff9b8443c30cca5f2431fd95351699a6983e88'
-graffiti: '0x0bee87712604fa3dcea1b928675a7f37be58864e47b5e736ad356aab45dd3833'
-proposer_slashings: []
-attester_slashings: []
-attestations: []
-deposits: []
-voluntary_exits: []
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce1229b4ee8c7655385fc123453d30b1af0b42f5347599f14f8cefbdc0041c1a
+size 603

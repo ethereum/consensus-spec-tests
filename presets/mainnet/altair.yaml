@@ -1,24 +1,3 @@
-# Mainnet preset - Altair
-
-# Rewards and penalties
-# ---------------------------------------------------------------
-# 3 * 2**24 (= 50,331,648)
-INACTIVITY_PENALTY_QUOTIENT_ALTAIR: 50331648
-# 2**6 (= 64)
-MIN_SLASHING_PENALTY_QUOTIENT_ALTAIR: 64
-# 2
-PROPORTIONAL_SLASHING_MULTIPLIER_ALTAIR: 2
-
-# Sync committee
-# ---------------------------------------------------------------
-# 2**9 (= 512) participants
-SYNC_COMMITTEE_SIZE: 512
-# 2**8 (= 256) epochs
-EPOCHS_PER_SYNC_COMMITTEE_PERIOD: 256
-
-# Sync protocol
-# ---------------------------------------------------------------
-# 2**0 (= 1) participants
-MIN_SYNC_COMMITTEE_PARTICIPANTS: 1
-# SLOTS_PER_EPOCH * EPOCHS_PER_SYNC_COMMITTEE_PERIOD (= 32 * 256) epochs
-UPDATE_TIMEOUT: 8192
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a431c09ff12a259b11c04daa0a52962144fa10931047f8a9c78e3214e079bfb
+size 726

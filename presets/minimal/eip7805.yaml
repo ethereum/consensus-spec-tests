@@ -1,6 +1,3 @@
-# Minimal preset - EIP7805
-
-# Inclusion list committee
-# ---------------------------------------------------------------
-# 2**4 (= 16)
-INCLUSION_LIST_COMMITTEE_SIZE: 16
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe64657185e1b66cf8c3adc27bae7bafa343ca3b432c49986ec46f084e45c05e
+size 169

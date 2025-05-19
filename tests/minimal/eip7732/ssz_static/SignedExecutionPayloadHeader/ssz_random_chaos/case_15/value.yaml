@@ -1,10 +1,3 @@
-message:
-  parent_block_hash: '0x4c6b27042b25bdfe033581c90c9f4ba5eb98bfbc2d4c1cf07511247b47f68fb2'
-  parent_block_root: '0xf3936c9fb7d3b5152b3d458994863211241e36775f054a9f540c4a40fddcdc40'
-  block_hash: '0x639ea86938d7abc8f7fca348e24192d74c0732a712baf19b928f4c17e5eff9a9'
-  gas_limit: 0
-  builder_index: 14838615437482199970
-  slot: 11190896300661282652
-  value: 12886645971237531351
-  blob_kzg_commitments_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
-signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+version https://git-lfs.github.com/spec/v1
+oid sha256:321fe0ba82e31737a5e871382f0d24311dcb849cce44df730cdf30e8bf93d5ec
+size 669

@@ -1,6 +1,3 @@
-attesting_indices: []
-data:
-  beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-  slot: 18446744073709551615
-  payload_status: 255
-signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d5799171cf4916e008f343d314fa6cea29d732cb466bb46b65452867462e5f3
+size 397

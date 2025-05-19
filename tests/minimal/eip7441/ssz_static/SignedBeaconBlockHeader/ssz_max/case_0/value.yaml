@@ -1,7 +1,0 @@
-message:
-  slot: 18446744073709551615
-  proposer_index: 18446744073709551615
-  parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-  state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-  body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'

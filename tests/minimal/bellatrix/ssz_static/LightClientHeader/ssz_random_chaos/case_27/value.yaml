@@ -1,6 +1,3 @@
-beacon:
-  slot: 17173034736579645873
-  proposer_index: 14627993342354567299
-  parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-  state_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
-  body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+version https://git-lfs.github.com/spec/v1
+oid sha256:87631e0e310ab129abc38d51cbad662922b731b3916e709f352ef3e050d1538c
+size 324

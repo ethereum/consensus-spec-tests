@@ -1,13 +1,3 @@
-aggregation_bits: '0x02'
-data:
-  slot: 3412784085053048725
-  index: 13529636564522481906
-  beacon_block_root: '0x7a52cdd0c0e87cd0d4c25b136f4dd123270adbcf0a36fc5d9c26d43c680bc7be'
-  source:
-    epoch: 14197087353849711682
-    root: '0x2a3aeb4a6c2afac77e42aeaf06dd013e3f1f950f6b6aac589046bb4eecdd9d66'
-  target:
-    epoch: 3371424636818371217
-    root: '0x5cbbb0b1e7f047988e5b74a8a112f07caf6b1c79ffff0e1558e52c1f79036254'
-inclusion_delay: 1839175429609988682
-proposer_index: 1118632822047455804
+version https://git-lfs.github.com/spec/v1
+oid sha256:8539dda4e12f4244a156562e24fdede9b6b6bfb053f9582b847d28d19bf84bc0
+size 496

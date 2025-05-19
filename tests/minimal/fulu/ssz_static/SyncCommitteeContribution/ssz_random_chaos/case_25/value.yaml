@@ -1,5 +1,3 @@
-slot: 1078295659955919871
-beacon_block_root: '0xbb4343bcd02608f144d66e1a60cc2899c22e6fddf5bb1dc1aeeaad1950e02438'
-subcommittee_index: 13712832462832064885
-aggregation_bits: '0x86'
-signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a265d8683f33d7e00bc774f3f020e8fe3a97cc6dc48ac88e44cb99d343bdf10
+size 370

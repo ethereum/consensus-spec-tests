@@ -1,5 +1,3 @@
-slot: 13454887504729785549
-proposer_index: 5700404023567613851
-parent_root: '0xad4cec3e2fa211b935beff278232c425aa69dff224a9a44d27e59fb8c1cfcbf9'
-state_root: '0x4df7cabd8c6be1789f19cf739642bbe1bdf25089852ca442716066e8f5d78555'
-body_root: '0x1fa36383e91818ca481cfb1a6f4a08ecede5ac7ef3d39a2981589965b63ad2ed'
+version https://git-lfs.github.com/spec/v1
+oid sha256:948099abc21bef31cdfb901e58cf910c6c537677af3a6b199b9adacde0dba386
+size 306

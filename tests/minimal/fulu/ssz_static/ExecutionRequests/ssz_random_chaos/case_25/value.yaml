@@ -1,6 +1,3 @@
-deposits: []
-withdrawals: []
-consolidations:
-- source_address: '0x407f75a204aab39e2fe80e9460d611d7031e09a3'
-  source_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-  target_pubkey: '0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4ecdc94e0bebe42d719f1ebad364c6da6d52f3d99db1ffd28e507f9d85d5bbf
+size 3242

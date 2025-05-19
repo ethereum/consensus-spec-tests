@@ -1,13 +1,3 @@
-- process_update:
-    update_fork_digest: '0x0cbce901'
-    update: update_0x3c45c632517ce24511edb793085d54b83c42d3686838faae33654667868a22e6_sf
-    current_slot: 18
-    checks:
-      finalized_header:
-        slot: 16
-        beacon_root: '0xd299923eeeeab44fdd05c82f782da14b8ed8e03a323d214d3d7671a64b2f0d82'
-        execution_root: '0x69bd5aaffc84db638f0ac7208ea5d3522d0bc8e69604fa88bcd97a45c31bfbc0'
-      optimistic_header:
-        slot: 17
-        beacon_root: '0x3c45c632517ce24511edb793085d54b83c42d3686838faae33654667868a22e6'
-        execution_root: '0x45f44f7d2858f182f8cc051a27066b34f49709042e644a60b9df91ca7102c01d'
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fe0a4d018262ae9d7795b6e5c1175e9e79c26d9ec96ab24c0735c69d8c88ed5
+size 626

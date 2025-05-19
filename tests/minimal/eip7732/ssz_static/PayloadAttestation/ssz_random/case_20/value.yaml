@@ -1,6 +1,3 @@
-aggregation_bits: '0x01'
-data:
-  beacon_block_root: '0xcdc4601cc31db08f96a65c4867897d534410ddc1cadfc3455bb82ddbaa44f5f9'
-  slot: 11008690565911806067
-  payload_status: 87
-signature: '0x6239a15eced5a7929d0ff645b1839f01f0ff4efb29ca076364bd78a1e6e9d95f674bfb899d6f03e774d989e0c6845b896e9c28c6d4155c8675f59bd0cbe4772ea451013a82faaeb241666b8d5cc922be7c4032850824506d4b8b92bebef7aac8'
+version https://git-lfs.github.com/spec/v1
+oid sha256:8aa309810e7ce4d1908e07c96bc17ac64dc3908bf4d81514af18b813b7dc42a3
+size 380

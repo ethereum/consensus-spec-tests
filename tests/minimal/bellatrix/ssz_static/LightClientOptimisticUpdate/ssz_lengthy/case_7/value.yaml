@@ -1,11 +1,3 @@
-attested_header:
-  beacon:
-    slot: 249379596969819541
-    proposer_index: 11797541749513490268
-    parent_root: '0x87cf2859ec447c4f6bf8776e4080f0f7d52c0f0f06e29665124f69b801f7145b'
-    state_root: '0xa5a181b0fafaa80a4abaa002eb082088de518680c64843d4c9f60951c04c0605'
-    body_root: '0x15ea471f7b94187d84fb535c65b5c876dee576927c08e1c7735bb44b03395824'
-sync_aggregate:
-  sync_committee_bits: '0xb748843e'
-  sync_committee_signature: '0xb8a881b7b61f91e9e725d6c08ef9d3056025d57d6417addaef905e1054ef765ef49faa8f3b641b9ceeaf5f9cd6ab0f989f1f4e6ec60426ada0ae2d6b347f79dd124e2871f83ca953289b7210d3052c21f5b34b207ddb1bbab2fad545b0d868d2'
-signature_slot: 8101998419963258891
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e4a3913f7897f0566c81e3096434ec7d8ede0307bf358033033fcb8c62c9d8e
+size 667

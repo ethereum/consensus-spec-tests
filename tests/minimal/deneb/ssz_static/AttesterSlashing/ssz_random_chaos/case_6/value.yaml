@@ -1,29 +1,3 @@
-attestation_1:
-  attesting_indices: [9546099168908022741, 9253857570384456950, 8269997986720234794,
-    0, 2105109862780216094, 11023282328254315824, 538226308637155977, 18446744073709551615]
-  data:
-    slot: 10704478804787807121
-    index: 0
-    beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-    source:
-      epoch: 7784746887333240391
-      root: '0xfd44a5ac018ba22f333c13fa2c9894dd5cf38d37b916de915b87e2d4b9f6dc00'
-    target:
-      epoch: 0
-      root: '0x5c16b53efbc85762312d4ca48f208e8190a591842abd3d0d3616d3dd655b2898'
-  signature: '0xe3db20becef0d3ee64de79eb47ecb1919c05add680ff14f023474e0a3583f484b1afe9fca101163f1180c09bb355899f842c97cd302cc88c547b359d175e16e89fef49cdf2b1acf7665f585a7ba039a3068aa2ec2ffa281f8670dc51eae57799'
-attestation_2:
-  attesting_indices: [10560766274227102563, 7825777140758425240, 265245357961436095,
-    12892023797162813787, 8024156958904817628, 16717955613865484911, 0, 550793030254112687,
-    3802975885383986639, 17494592075085397127]
-  data:
-    slot: 12987064412425606339
-    index: 11697668184469040537
-    beacon_block_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-    source:
-      epoch: 10330529409819097704
-      root: '0x494b601ff2ada4f47f6611a1fe4e734b60bea766f1c6593be050738e0c607fe0'
-    target:
-      epoch: 3299164281685576537
-      root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-  signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d2850268e8ca254894711b8ccc74caf91a1fb8373d7c919e880bb56d4488fb6
+size 1555

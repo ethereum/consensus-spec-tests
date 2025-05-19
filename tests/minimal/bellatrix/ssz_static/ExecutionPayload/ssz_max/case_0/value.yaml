@@ -1,23 +1,3 @@
-parent_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-fee_recipient: '0xffffffffffffffffffffffffffffffffffffffff'
-state_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-receipts_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-logs_bloom: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-prev_randao: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-block_number: 18446744073709551615
-gas_limit: 18446744073709551615
-gas_used: 18446744073709551615
-timestamp: 18446744073709551615
-extra_data: '0xff'
-base_fee_per_gas: '115792089237316195423570985008687907853269984665640564039457584007913129639935'
-block_hash: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-transactions:
-- '0xff'
-- '0xff'
-- '0xff'
-- '0xff'
-- '0xff'
-- '0xff'
-- '0xff'
-- '0xff'
-- '0xff'
+version https://git-lfs.github.com/spec/v1
+oid sha256:43a6b7c60c8e7b3bacd9383cb3a09e7c4d8f945a4e64a5981ee0c1d900de160c
+size 1306

@@ -1,7 +1,3 @@
-message:
-  slot: 0
-  proposer_index: 18446744073709551615
-  parent_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-  state_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
-  body_root: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-signature: '0x2388e16ade899822dfbda97bf30ceef9a621bff3f4557af6e9aad44b7ad6d61b3c5e9d5cd8da92cb2ed0ab6b49cc823f79bdfb8d4448b1b6bf448b8d500b486352454926cbf7e632614d026d7f441856bcbce164e14f0f69b947b327278b8413'
+version https://git-lfs.github.com/spec/v1
+oid sha256:14e640a56fdd8f70991c643c2192dd8e5b339a66556f4a0309a52be20f4f4122
+size 533

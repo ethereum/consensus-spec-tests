@@ -1,16 +1,3 @@
-# Mainnet preset - EIP7441
-
-# Misc
-# ---------------------------------------------------------------
-# 2**2 (= 4)
-CURDLEPROOFS_N_BLINDERS: 4
-# 2**14 (= 16,384)
-CANDIDATE_TRACKERS_COUNT: 16384
-# 2**13 (= 8,192)
-PROPOSER_TRACKERS_COUNT: 8192
-# 2**7 - CURDLEPROOFS_N_BLINDERS (= 124)
-VALIDATORS_PER_SHUFFLE: 124
-# 2**15 (= 32,768)
-MAX_SHUFFLE_PROOF_SIZE: 32768
-# 2**10 (= 1,024)
-MAX_OPENING_PROOF_SIZE: 1024
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f91e6f456950eb4f024a9accceffeec7ffb09c4fd75069d7100062b312199ee
+size 405

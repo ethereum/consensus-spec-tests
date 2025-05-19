@@ -1,2 +1,3 @@
-object_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
-domain: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cca55321020981f920dd8d6cf9bee9ea6a748392f70a97e0811e633a4e37bf3
+size 159

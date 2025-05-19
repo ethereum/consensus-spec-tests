@@ -1,1 +1,3 @@
-{post_fork: electra, fork_epoch: 3, blocks_count: 49, fork_block: 15}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c89cc1407abc2c9f37d4cacb161307903943bde37a1f7986fc05dd8aa9f80ad
+size 70

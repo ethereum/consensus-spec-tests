@@ -1,11 +1,3 @@
-deposits:
-- pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-  withdrawal_credentials: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-  amount: 18446744073709551615
-  signature: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-  index: 10208018905157921124
-withdrawals:
-- source_address: '0x0000000000000000000000000000000000000000'
-  validator_pubkey: '0x92e51a06270f55a26dcb78012fa18086e985f5242194ca1419aaf6534907e84989f674798fc724cec3162d8403825cd2'
-  amount: 9229599677188229527
-consolidations: []
+version https://git-lfs.github.com/spec/v1
+oid sha256:1194084d595fa88e100668811ed548c4ba6c23e5c4ba87f815c14941486f0399
+size 733

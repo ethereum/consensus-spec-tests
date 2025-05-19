@@ -1,25 +1,3 @@
-attested_header:
-  beacon:
-    slot: 18446744073709551615
-    proposer_index: 0
-    parent_root: '0xf7e563e40bb519895225d2292444e01331c2f21c7b1d9032f439d4ea294ca2cc'
-    state_root: '0x653bf4b5e69e6cd47c9cd9ec35d2a8c930180cc1998e7d0b6c107c64f21ded7d'
-    body_root: '0xd38b0ae2578868e7182208323f2caa1b81307211e1dd65d6fe8069af9da79c23'
-  execution:
-    parent_block_hash: '0xf115ed2bc5116fcb56dcb3749eecdff95d6897740c8a425b61f082c094040466'
-    parent_block_root: '0x5ade9051b50fabfb3d1741e1a2b42cc7989bc23239db8173da134fd0d5871a55'
-    block_hash: '0x2f27b11c1dfd326e8d5531a064b7d6fa21549d92b9221296d8050b785d87ebb9'
-    gas_limit: 3152487069644467421
-    builder_index: 11442608137403342274
-    slot: 0
-    value: 11804153933207054892
-    blob_kzg_commitments_root: '0x3c440cd90a624aa04c288ce1559148d641325c1f6aa576984de6bf86bf395883'
-  execution_branch:
-  - '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-  - '0x0104536f5c817453a75450d959673990dda2d202f6d7f23156255ce20562365d'
-  - '0xc2a8a7e4a9f806626bb417e708858cbd56227f5e9b5ce83450660b39dee1f9f4'
-  - '0x269fcafc12cda07bc680f1dfc6f9170d4e6a8b223339d51f85591def00e48b08'
-sync_aggregate:
-  sync_committee_bits: '0xb8169a6e'
-  sync_committee_signature: '0x9d6e9a80bfd5ca98ce0a6fb70e225f76c0a206a28c5e69d816a08c8efbbbb415bfed6945c97f19d3efe08288fc479e406f9919f3a144bc595703de437a5d93615d946b10af5d40053bf5684beced0615ff5894857beb84160323cc2e353abb9b'
-signature_slot: 13760858912770949417
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b7705afd4a7ef47da70770ed799257381f57383663f2a72fe8ef8f5ff4498b9
+size 1480

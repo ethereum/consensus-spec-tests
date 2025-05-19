@@ -1,5 +1,3 @@
-input:
-  blobs: []
-  commitments: []
-  proofs: []
-output: true
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e9d882a3664415e7668b99b384556af42b9d73c9948882c8eb87d56056983ed
+size 63

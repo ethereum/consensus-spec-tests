@@ -1,2 +1,3 @@
-message: {epoch: 0, validator_index: 0}
-signature: '0x58a952fc68969f23829825c7154c98229c9924fc47e4904c3814c4fabdd8032f655bdf75bcc24c66a856ae740e4866b4b200352d5cb823a57c885ea93973a348750a5abc4acbe8fbf6f5a1acddbbe226e931af341c8c5c9fe79e42a969db44cb'
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc823cefd87d58a8d957375fd38cab5d80cc698adb1501bca98d638717091786
+size 284

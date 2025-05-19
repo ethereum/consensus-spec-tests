@@ -1,16 +1,3 @@
-# Minimal preset - EIP7441
-
-# Misc
-# ---------------------------------------------------------------
-# [customized]
-CURDLEPROOFS_N_BLINDERS: 4
-# [customized]
-CANDIDATE_TRACKERS_COUNT: 32
-# [customized]
-PROPOSER_TRACKERS_COUNT: 16
-# [customized]
-VALIDATORS_PER_SHUFFLE: 4
-# `uint64(2**15)` TODO: will be replaced by a fix format once there's a serialized format
-MAX_SHUFFLE_PROOF_SIZE: 32768
-# `uint64(2**10)` TODO: will be replaced by a fix format once there's a serialized format
-MAX_OPENING_PROOF_SIZE: 1024
+version https://git-lfs.github.com/spec/v1
+oid sha256:426225bf1ec7b2f44d10cca8c1fdcb0c4fa9644a7754b0415a6933dfa1bc6cf7
+size 510

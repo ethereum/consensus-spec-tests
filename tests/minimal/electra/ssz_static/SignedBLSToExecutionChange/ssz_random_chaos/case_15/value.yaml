@@ -1,5 +1,3 @@
-message:
-  validator_index: 10464521496202235907
-  from_bls_pubkey: '0xffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff'
-  to_execution_address: '0x3cd32e0931a58e99f4fb908d7a988e15774c1a1b'
-signature: '0x99e33ff77d958ab6fc8efe03c51d5c6ed6d32c56ea21430fa91ab54e235d3aefca688bcb665ed412d1939e0a2f677743d9cf5a9a3626b3633df618a70755b8b2158561dec2226629ba18e831495f1b26aae628f9055dce9b2e88bce776831b4e'
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3f1ebccf6c0b07aa18c7677466b6ac4b9446f0753dcefe46af24e59baddc072
+size 445

@@ -1,9 +1,3 @@
-slot: 4732002616744673616
-index: 13724201436638215210
-beacon_block_root: '0x96b5d15e897f2c3049cdacb3bd1cae552907e2245e3f1da2b9b7a0bf396d3a54'
-source:
-  epoch: 0
-  root: '0xda6338a5d107facdfa5933c90cc3aaabc3bc4819e30c0772375e84f5c94ea2f9'
-target:
-  epoch: 18446744073709551615
-  root: '0x5062585ba9ef5db06a5527b0cf4ba5e9e205accd839e9e429e2e4a3cad94807b'
+version https://git-lfs.github.com/spec/v1
+oid sha256:20f8bc86dfb9ad3180ba2c3ab4ea6640ea200b7c2f24ee725908458ae7875cb8
+size 352

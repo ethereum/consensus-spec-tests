@@ -1,30 +1,3 @@
-- {tick: 0}
-- checks:
-    time: 0
-    head:
-      slot: 0
-      root: '0x075bf339bbf206ab8321b61016d9e3326ec1c23fcb8437795e73e57726d769e0'
-    justified_checkpoint:
-      epoch: 0
-      root: '0x075bf339bbf206ab8321b61016d9e3326ec1c23fcb8437795e73e57726d769e0'
-    finalized_checkpoint:
-      epoch: 0
-      root: '0x075bf339bbf206ab8321b61016d9e3326ec1c23fcb8437795e73e57726d769e0'
-    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
-- {pow_block: pow_block_0x52047d35e3c1e16d8b7c51d8f899380b138398e962656c0e4df05fd487d07330}
-- {pow_block: pow_block_0xde65913f3afa0f22555a8c06fd670907fd7ce1cbb8968f7a3ced1e8cc51e4db6}
-- {tick: 12}
-- checks:
-    time: 12
-    head:
-      slot: 0
-      root: '0x075bf339bbf206ab8321b61016d9e3326ec1c23fcb8437795e73e57726d769e0'
-    justified_checkpoint:
-      epoch: 0
-      root: '0x075bf339bbf206ab8321b61016d9e3326ec1c23fcb8437795e73e57726d769e0'
-    finalized_checkpoint:
-      epoch: 0
-      root: '0x075bf339bbf206ab8321b61016d9e3326ec1c23fcb8437795e73e57726d769e0'
-    proposer_boost_root: '0x0000000000000000000000000000000000000000000000000000000000000000'
-- {block: block_0x33eeccf589f4f6e35aed47a1d3d126079848f9a72644cacaf53f5d9ed2874a5b,
-  valid: false}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fc6cd80922f47322d29f7037d098dc47657ebeeae4e2b7ed0642474a1e868a0
+size 1240

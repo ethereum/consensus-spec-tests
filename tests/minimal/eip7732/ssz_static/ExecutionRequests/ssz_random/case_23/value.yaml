@@ -1,12 +1,3 @@
-deposits: []
-withdrawals:
-- source_address: '0xd0518516f3b0f2fa13901c92ab805b9d05566d4c'
-  validator_pubkey: '0x99a07f2c3c964e7e98de24986c82dc2f416493f6c7f74384d45c2a611bc8b2366dfce1b0c00e31a647690d93ebf79092'
-  amount: 13068363719734718532
-- source_address: '0xd25d44f4faa4a0a27677d6638a0cb3762394a7d9'
-  validator_pubkey: '0xc900768fd05ec57f7862f4acdee02f09e5d0da924e1230a41f87fbc07fca83f00028f3406575221b0f0581426172586c'
-  amount: 7463246038089534202
-- source_address: '0x2718935eea44e9684d3cb10a1a163feedf8ee9a0'
-  validator_pubkey: '0xa258f71d149e0e7a3130f4f2b6dc9b748680efa7d1f5c9376fe76a0dbcedab1afaf297955f5043bc500dd4706c87d9b4'
-  amount: 11539398768866430072
-consolidations: []
+version https://git-lfs.github.com/spec/v1
+oid sha256:50bf451b6014e774f8e1a5e4941fb51c384a324ad37bbd0466aa58915ebdd9a6
+size 5957
